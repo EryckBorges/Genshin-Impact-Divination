@@ -3249,7 +3249,7 @@ btnrest.addEventListener('click', () => {
             vida1.style.display = "block";
         }
     }else if(vidas >= 3) {
-        btnrest.style.fontSize = "8pt";
+        
         btnrest.innerHTML = "Vida Completa";
         btnrest.style.background = "#dd1440";
         btnrest.style.transition = "0.4s linear";
@@ -3259,8 +3259,7 @@ btnrest.addEventListener('click', () => {
                 btnrest.style.transition = "0.4s linear";
             }, 3000);
     }else if(vidas < 3 && localStorage.getItem('Money') < 100) {
-        btnrest.style.fontSize = "8pt";
-        btnrest.innerHTML = "Mora Insuficiente";
+        btnrest.innerHTML = "Indisponivel";
         btnrest.style.background = "#dd1440";
         btnrest.style.transition = "0.4s linear";
             setTimeout(() => {
@@ -3298,7 +3297,6 @@ btnrest2.addEventListener('click', () => {
             vida2.style.display = "block";
         }
     }else if(vidas >= 3) {
-        btnrest2.style.fontSize = "8pt";
         btnrest2.innerHTML = "Vida Completa";
         btnrest2.style.background = "#dd1440";
         btnrest2.style.transition = "0.4s linear";
@@ -3308,8 +3306,7 @@ btnrest2.addEventListener('click', () => {
                 btnrest2.style.transition = "0.4s linear";
             }, 3000);
     }else if(vidas < 3 && localStorage.getItem('Money') < 100) {
-        btnrest2.style.fontSize = "8pt";
-        btnrest2.innerHTML = "Mora Insuficiente";
+        btnrest2.innerHTML = "Indisponivel";
         btnrest2.style.background = "#dd1440";
         btnrest2.style.transition = "0.4s linear";
             setTimeout(() => {
@@ -3332,7 +3329,6 @@ btnrest3.addEventListener('click', () => {
         vida2.style.display = "block";
         vida3.style.display = "block";
     }else if(vidas >= 3) {
-        btnrest3.style.fontSize = "8pt";
         btnrest3.innerHTML = "Vida Completa";
         btnrest3.style.background = "#dd1440";
         btnrest3.style.transition = "0.4s linear";
@@ -3342,8 +3338,7 @@ btnrest3.addEventListener('click', () => {
                 btnrest3.style.transition = "0.4s linear";
             }, 3000);
     }else if(vidas < 3 && localStorage.getItem('Money') < 200) {
-        btnrest3.style.fontSize = "8pt";
-        btnrest3.innerHTML = "Mora Insuficiente";
+        btnrest3.innerHTML = "Indisponivel";
         btnrest3.style.background = "#dd1440";
         btnrest3.style.transition = "0.4s linear";
             setTimeout(() => {
@@ -4056,6 +4051,9 @@ const navia = document.querySelector('#navia');
 const chevreuse = document.querySelector('#chevreuse');
 
 lumine.addEventListener('click', () => {
+    const efeito = "./music/lumine.ogg";
+    audio.src = efeito;
+    audio.play();  
     let imgSelect = document.querySelector('#lumine img').src;
     document.querySelector('#imgPerfil img').src = imgSelect;
 });
