@@ -31,8 +31,7 @@ export const dilucAvatarCompra = () => {
         dilucAvatar.style.background = "#dd1440";
         dilucAvatar.style.transition = "0.4s linear";
     }else if(localStorage.getItem('dilucAvatar') !== 'comprado' && localStorage.getItem('Money') < 800) {
-        dilucAvatar.style.fontSize = "8pt";
-        dilucAvatar.innerHTML = "Mora Insuficiente";
+        dilucAvatar.innerHTML = "Indisponivel";
         dilucAvatar.style.background = "#dd1440";
         dilucAvatar.style.transition = "0.4s linear";
             setTimeout(() => {
@@ -73,8 +72,7 @@ export const ventiAvatarCompra = () => {
        ventiAvatar.style.background = "#dd1440";
         ventiAvatar.style.transition = "0.4s linear";
     }else if(localStorage.getItem('ventiAvatar') !== 'comprado' && localStorage.getItem('Money') < 800) {
-        ventiAvatar.style.fontSize = "8pt";
-        ventiAvatar.innerHTML = "Mora Insuficiente";
+        ventiAvatar.innerHTML = "Indisponivel";
         ventiAvatar.style.background = "#dd1440";
         ventiAvatar.style.transition = "0.4s linear";
             setTimeout(() => {
@@ -115,8 +113,7 @@ export const kleeAvatarCompra = () => {
         kleeAvatar.style.background = "#dd1440";
         kleeAvatar.style.transition = "0.4s linear";
     }else if(localStorage.getItem('kleeAvatar') !== 'comprado' && localStorage.getItem('Money') < 800) {
-       kleeAvatar.style.fontSize = "8pt";
-        kleeAvatar.innerHTML = "Mora Insuficiente";
+        kleeAvatar.innerHTML = "Indisponivel";
         kleeAvatar.style.background = "#dd1440";
         kleeAvatar.style.transition = "0.4s linear";
             setTimeout(() => {
@@ -157,8 +154,7 @@ export const monaAvatarCompra = () => {
         monaAvatar.style.background = "#dd1440";
         monaAvatar.style.transition = "0.4s linear";
     }else if(localStorage.getItem('monaAvatar') !== 'comprado' && localStorage.getItem('Money') < 800) {
-       monaAvatar.style.fontSize = "8pt";
-        monaAvatar.innerHTML = "Mora Insuficiente";
+        monaAvatar.innerHTML = "Indisponivel";
         monaAvatar.style.background = "#dd1440";
         monaAvatar.style.transition = "0.4s linear";
             setTimeout(() => {
@@ -199,8 +195,7 @@ export const albedoAvatarCompra = () => {
         albedoAvatar.style.background = "#dd1440";
         albedoAvatar.style.transition = "0.4s linear";
     }else if(localStorage.getItem('albedoAvatar') !== 'comprado' && localStorage.getItem('Money') < 800) {
-        albedoAvatar.style.fontSize = "8pt";
-        albedoAvatar.innerHTML = "Mora Insuficiente";
+        albedoAvatar.innerHTML = "Indisponivel";
         albedoAvatar.style.background = "#dd1440";
         albedoAvatar.style.transition = "0.4s linear";
             setTimeout(() => {
@@ -241,8 +236,7 @@ export const eulaAvatarCompra = () => {
         eulaAvatar.style.background = "#dd1440";
         eulaAvatar.style.transition = "0.4s linear";
     }else if(localStorage.getItem('eulaAvatar') !== 'comprado' && localStorage.getItem('Money') < 800) {
-       eulaAvatar.style.fontSize = "8pt";
-        eulaAvatar.innerHTML = "Mora Insuficiente";
+        eulaAvatar.innerHTML = "Indisponivel";
         eulaAvatar.style.background = "#dd1440";
         eulaAvatar.style.transition = "0.4s linear";
             setTimeout(() => {
@@ -283,8 +277,7 @@ export const jeanAvatarCompra = () => {
         jeanAvatar.style.background = "#dd1440";
         jeanAvatar.style.transition = "0.4s linear";
     }else if(localStorage.getItem('jeanAvatar') !== 'comprado' && localStorage.getItem('Money') < 800) {
-       jeanAvatar.style.fontSize = "8pt";
-        jeanAvatar.innerHTML = "Mora Insuficiente";
+        jeanAvatar.innerHTML = "Indisponivel";
         jeanAvatar.style.background = "#dd1440";
         jeanAvatar.style.transition = "0.4s linear";
             setTimeout(() => {
@@ -325,8 +318,7 @@ export const barbaraAvatarCompra = () => {
         barbaraAvatar.style.background = "#dd1440";
         barbaraAvatar.style.transition = "0.4s linear";
     } else if(localStorage.getItem('barbaraAvatar') !== 'comprado' && localStorage.getItem('Money') < 600) {
-        barbaraAvatar.style.fontSize = "8pt";
-        barbaraAvatar.innerHTML = "Mora Insuficiente";
+        barbaraAvatar.innerHTML = "Indisponivel";
         barbaraAvatar.style.background = "#dd1440";
         barbaraAvatar.style.transition = "0.4s linear";
         setTimeout(() => {
@@ -367,8 +359,7 @@ export const amberAvatarCompra = () => {
         amberAvatar.style.background = "#dd1440";
         amberAvatar.style.transition = "0.4s linear";
     } else if(localStorage.getItem('amberAvatar') !== 'comprado' && localStorage.getItem('Money') < 600) {
-        amberAvatar.style.fontSize = "8pt";
-        amberAvatar.innerHTML = "Mora Insuficiente";
+        amberAvatar.innerHTML = "Indisponivel";
         amberAvatar.style.background = "#dd1440";
         amberAvatar.style.transition = "0.4s linear";
         setTimeout(() => {
@@ -409,8 +400,7 @@ export const razorAvatarCompra = () => {
         razorAvatar.style.background = "#dd1440";
         razorAvatar.style.transition = "0.4s linear";
     } else if(localStorage.getItem('razorAvatar') !== 'comprado' && localStorage.getItem('Money') < 600) {
-        razorAvatar.style.fontSize = "8pt";
-        razorAvatar.innerHTML = "Mora Insuficiente";
+        razorAvatar.innerHTML = "Indisponivel";
         razorAvatar.style.background = "#dd1440";
         razorAvatar.style.transition = "0.4s linear";
         setTimeout(() => {
@@ -452,8 +442,7 @@ export const dionaAvatarCompra = () => {
         dionaAvatar.style.background = "#dd1440";
         dionaAvatar.style.transition = "0.4s linear";
     } else if(localStorage.getItem('dionaAvatar') !== 'comprado' && localStorage.getItem('Money') < 600) {
-        dionaAvatar.style.fontSize = "8pt";
-        dionaAvatar.innerHTML = "Mora Insuficiente";
+        dionaAvatar.innerHTML = "Indisponivel";
         dionaAvatar.style.background = "#dd1440";
         dionaAvatar.style.transition = "0.4s linear";
         setTimeout(() => {
@@ -495,8 +484,7 @@ export const lisaAvatarCompra = () => {
         lisaAvatar.style.background = "#dd1440";
         lisaAvatar.style.transition = "0.4s linear";
     } else if(localStorage.getItem('lisaAvatar') !== 'comprado' && localStorage.getItem('Money') < 600) {
-        lisaAvatar.style.fontSize = "8pt";
-        lisaAvatar.innerHTML = "Mora Insuficiente";
+        lisaAvatar.innerHTML = "Indisponivel";
         lisaAvatar.style.background = "#dd1440";
         lisaAvatar.style.transition = "0.4s linear";
         setTimeout(() => {
@@ -538,8 +526,7 @@ export const sucroseAvatarCompra = () => {
         sucroseAvatar.style.background = "#dd1440";
         sucroseAvatar.style.transition = "0.4s linear";
     } else if(localStorage.getItem('sucroseAvatar') !== 'comprado' && localStorage.getItem('Money') < 600) {
-        sucroseAvatar.style.fontSize = "8pt";
-        sucroseAvatar.innerHTML = "Mora Insuficiente";
+        sucroseAvatar.innerHTML = "Indisponivel";
         sucroseAvatar.style.background = "#dd1440";
         sucroseAvatar.style.transition = "0.4s linear";
         setTimeout(() => {
@@ -581,8 +568,7 @@ export const rosariaAvatarCompra = () => {
         rosariaAvatar.style.background = "#dd1440";
         rosariaAvatar.style.transition = "0.4s linear";
     } else if(localStorage.getItem('rosariaAvatar') !== 'comprado' && localStorage.getItem('Money') < 600) {
-        rosariaAvatar.style.fontSize = "8pt";
-        rosariaAvatar.innerHTML = "Mora Insuficiente";
+        rosariaAvatar.innerHTML = "Indisponivel";
         rosariaAvatar.style.background = "#dd1440";
         rosariaAvatar.style.transition = "0.4s linear";
         setTimeout(() => {
@@ -624,8 +610,7 @@ export const noelleAvatarCompra = () => {
         noelleAvatar.style.background = "#dd1440";
         noelleAvatar.style.transition = "0.4s linear";
     } else if(localStorage.getItem('noelleAvatar') !== 'comprado' && localStorage.getItem('Money') < 600) {
-        noelleAvatar.style.fontSize = "8pt";
-        noelleAvatar.innerHTML = "Mora Insuficiente";
+        noelleAvatar.innerHTML = "Indisponivel";
         noelleAvatar.style.background = "#dd1440";
         noelleAvatar.style.transition = "0.4s linear";
         setTimeout(() => {
@@ -667,8 +652,7 @@ export const kaeyaAvatarCompra = () => {
         kaeyaAvatar.style.background = "#dd1440";
         kaeyaAvatar.style.transition = "0.4s linear";
     } else if(localStorage.getItem('kaeyaAvatar') !== 'comprado' && localStorage.getItem('Money') < 600) {
-        kaeyaAvatar.style.fontSize = "8pt";
-        kaeyaAvatar.innerHTML = "Mora Insuficiente";
+        kaeyaAvatar.innerHTML = "Indisponivel";
         kaeyaAvatar.style.background = "#dd1440";
         kaeyaAvatar.style.transition = "0.4s linear";
         setTimeout(() => {
@@ -710,8 +694,7 @@ export const bennettAvatarCompra = () => {
         bennettAvatar.style.background = "#dd1440";
         bennettAvatar.style.transition = "0.4s linear";
     } else if(localStorage.getItem('bennettAvatar') !== 'comprado' && localStorage.getItem('Money') < 600) {
-        bennettAvatar.style.fontSize = "8pt";
-        bennettAvatar.innerHTML = "Mora Insuficiente";
+        bennettAvatar.innerHTML = "Indisponivel";
         bennettAvatar.style.background = "#dd1440";
         bennettAvatar.style.transition = "0.4s linear";
         setTimeout(() => {
@@ -753,8 +736,7 @@ export const fischlAvatarCompra = () => {
         fischlAvatar.style.background = "#dd1440";
         fischlAvatar.style.transition = "0.4s linear";
     } else if(localStorage.getItem('fischlAvatar') !== 'comprado' && localStorage.getItem('Money') < 600) {
-        fischlAvatar.style.fontSize = "8pt";
-        fischlAvatar.innerHTML = "Mora Insuficiente";
+        fischlAvatar.innerHTML = "Indisponivel";
         fischlAvatar.style.background = "#dd1440";
         fischlAvatar.style.transition = "0.4s linear";
         setTimeout(() => {
@@ -796,8 +778,7 @@ export const mikaAvatarCompra = () => {
         mikaAvatar.style.background = "#dd1440";
         mikaAvatar.style.transition = "0.4s linear";
     } else if(localStorage.getItem('mikaAvatar') !== 'comprado' && localStorage.getItem('Money') < 600) {
-        mikaAvatar.style.fontSize = "8pt";
-        mikaAvatar.innerHTML = "Mora Insuficiente";
+        mikaAvatar.innerHTML = "Indisponivel";
         mikaAvatar.style.background = "#dd1440";
         mikaAvatar.style.transition = "0.4s linear";
         setTimeout(() => {
@@ -841,8 +822,7 @@ export const hutaoAvatarCompra = () => {
         hutaoAvatar.style.background = "#dd1440";
         hutaoAvatar.style.transition = "0.4s linear";
     } else if(localStorage.getItem('hutaoAvatar') !== 'comprado' && localStorage.getItem('Money') < 800) {
-        hutaoAvatar.style.fontSize = "8pt";
-        hutaoAvatar.innerHTML = "Mora Insuficiente";
+        hutaoAvatar.innerHTML = "Indisponivel";
         hutaoAvatar.style.background = "#dd1440";
         hutaoAvatar.style.transition = "0.4s linear";
         setTimeout(() => {
@@ -884,8 +864,7 @@ export const zhongliAvatarCompra = () => {
         zhongliAvatar.style.background = "#dd1440";
         zhongliAvatar.style.transition = "0.4s linear";
     } else if(localStorage.getItem('zhongliAvatar') !== 'comprado' && localStorage.getItem('Money') < 800) {
-        zhongliAvatar.style.fontSize = "8pt";
-        zhongliAvatar.innerHTML = "Mora Insuficiente";
+        zhongliAvatar.innerHTML = "Indisponivel";
         zhongliAvatar.style.background = "#dd1440";
         zhongliAvatar.style.transition = "0.4s linear";
         setTimeout(() => {
@@ -927,8 +906,7 @@ export const xiaoAvatarCompra = () => {
         xiaoAvatar.style.background = "#dd1440";
         xiaoAvatar.style.transition = "0.4s linear";
     } else if(localStorage.getItem('xiaoAvatar') !== 'comprado' && localStorage.getItem('Money') < 800) {
-        xiaoAvatar.style.fontSize = "8pt";
-        xiaoAvatar.innerHTML = "Mora Insuficiente";
+        xiaoAvatar.innerHTML = "Indisponivel";
         xiaoAvatar.style.background = "#dd1440";
         xiaoAvatar.style.transition = "0.4s linear";
         setTimeout(() => {
@@ -970,8 +948,7 @@ export const ganyuAvatarCompra = () => {
         ganyuAvatar.style.background = "#dd1440";
         ganyuAvatar.style.transition = "0.4s linear";
     } else if(localStorage.getItem('ganyuAvatar') !== 'comprado' && localStorage.getItem('Money') < 800) {
-        ganyuAvatar.style.fontSize = "8pt";
-        ganyuAvatar.innerHTML = "Mora Insuficiente";
+        ganyuAvatar.innerHTML = "Indisponivel";
         ganyuAvatar.style.background = "#dd1440";
         ganyuAvatar.style.transition = "0.4s linear";
         setTimeout(() => {
@@ -1013,8 +990,7 @@ export const yelanAvatarCompra = () => {
         yelanAvatar.style.background = "#dd1440";
         yelanAvatar.style.transition = "0.4s linear";
     } else if(localStorage.getItem('yelanAvatar') !== 'comprado' && localStorage.getItem('Money') < 800) {
-        yelanAvatar.style.fontSize = "8pt";
-        yelanAvatar.innerHTML = "Mora Insuficiente";
+        yelanAvatar.innerHTML = "Indisponivel";
         yelanAvatar.style.background = "#dd1440";
         yelanAvatar.style.transition = "0.4s linear";
         setTimeout(() => {
@@ -1056,8 +1032,7 @@ export const shenheAvatarCompra = () => {
         shenheAvatar.style.background = "#dd1440";
         shenheAvatar.style.transition = "0.4s linear";
     } else if(localStorage.getItem('shenheAvatar') !== 'comprado' && localStorage.getItem('Money') < 800) {
-        shenheAvatar.style.fontSize = "8pt";
-        shenheAvatar.innerHTML = "Mora Insuficiente";
+        shenheAvatar.innerHTML = "Indisponivel";
         shenheAvatar.style.background = "#dd1440";
         shenheAvatar.style.transition = "0.4s linear";
         setTimeout(() => {
@@ -1099,8 +1074,7 @@ export const qiqiAvatarCompra = () => {
         qiqiAvatar.style.background = "#dd1440";
         qiqiAvatar.style.transition = "0.4s linear";
     } else if(localStorage.getItem('qiqiAvatar') !== 'comprado' && localStorage.getItem('Money') < 800) {
-        qiqiAvatar.style.fontSize = "8pt";
-        qiqiAvatar.innerHTML = "Mora Insuficiente";
+        qiqiAvatar.innerHTML = "Indisponivel";
         qiqiAvatar.style.background = "#dd1440";
         qiqiAvatar.style.transition = "0.4s linear";
         setTimeout(() => {
@@ -1142,8 +1116,7 @@ export const baizhuAvatarCompra = () => {
         baizhuAvatar.style.background = "#dd1440";
         baizhuAvatar.style.transition = "0.4s linear";
     } else if(localStorage.getItem('baizhuAvatar') !== 'comprado' && localStorage.getItem('Money') < 800) {
-        baizhuAvatar.style.fontSize = "8pt";
-        baizhuAvatar.innerHTML = "Mora Insuficiente";
+        baizhuAvatar.innerHTML = "Indisponivel";
         baizhuAvatar.style.background = "#dd1440";
         baizhuAvatar.style.transition = "0.4s linear";
         setTimeout(() => {
@@ -1185,8 +1158,7 @@ export const keqingAvatarCompra = () => {
         keqingAvatar.style.background = "#dd1440";
         keqingAvatar.style.transition = "0.4s linear";
     } else if(localStorage.getItem('keqingAvatar') !== 'comprado' && localStorage.getItem('Money') < 800) {
-        keqingAvatar.style.fontSize = "8pt";
-        keqingAvatar.innerHTML = "Mora Insuficiente";
+        keqingAvatar.innerHTML = "Indisponivel";
         keqingAvatar.style.background = "#dd1440";
         keqingAvatar.style.transition = "0.4s linear";
         setTimeout(() => {
@@ -1228,8 +1200,7 @@ export const yanfeiAvatarCompra = () => {
         yanfeiAvatar.style.background = "#dd1440";
         yanfeiAvatar.style.transition = "0.4s linear";
     } else if(localStorage.getItem('yanfeiAvatar') !== 'comprado' && localStorage.getItem('Money') < 600) {
-        yanfeiAvatar.style.fontSize = "8pt";
-        yanfeiAvatar.innerHTML = "Mora Insuficiente";
+        yanfeiAvatar.innerHTML = "Indisponivel";
         yanfeiAvatar.style.background = "#dd1440";
         yanfeiAvatar.style.transition = "0.4s linear";
         setTimeout(() => {
@@ -1271,8 +1242,7 @@ export const yunjinAvatarCompra = () => {
         yunjinAvatar.style.background = "#dd1440";
         yunjinAvatar.style.transition = "0.4s linear";
     } else if(localStorage.getItem('yunjinAvatar') !== 'comprado' && localStorage.getItem('Money') < 600) {
-        yunjinAvatar.style.fontSize = "8pt";
-        yunjinAvatar.innerHTML = "Mora Insuficiente";
+        yunjinAvatar.innerHTML = "Indisponivel";
         yunjinAvatar.style.background = "#dd1440";
         yunjinAvatar.style.transition = "0.4s linear";
         setTimeout(() => {
@@ -1314,8 +1284,7 @@ export const yaoyaoAvatarCompra = () => {
         yaoyaoAvatar.style.background = "#dd1440";
         yaoyaoAvatar.style.transition = "0.4s linear";
     } else if(localStorage.getItem('yaoyaoAvatar') !== 'comprado' && localStorage.getItem('Money') < 600) {
-        yaoyaoAvatar.style.fontSize = "8pt";
-        yaoyaoAvatar.innerHTML = "Mora Insuficiente";
+        yaoyaoAvatar.innerHTML = "Indisponivel";
         yaoyaoAvatar.style.background = "#dd1440";
         yaoyaoAvatar.style.transition = "0.4s linear";
         setTimeout(() => {
@@ -1357,8 +1326,7 @@ export const chongyunAvatarCompra = () => {
         chongyunAvatar.style.background = "#dd1440";
         chongyunAvatar.style.transition = "0.4s linear";
     } else if(localStorage.getItem('chongyunAvatar') !== 'comprado' && localStorage.getItem('Money') < 600) {
-        chongyunAvatar.style.fontSize = "8pt";
-        chongyunAvatar.innerHTML = "Mora Insuficiente";
+        chongyunAvatar.innerHTML = "Indisponivel";
         chongyunAvatar.style.background = "#dd1440";
         chongyunAvatar.style.transition = "0.4s linear";
         setTimeout(() => {
@@ -1396,12 +1364,11 @@ export const beidouAvatarCompra = () => {
         beidouAvatar.style.background = "#dd1440";
         beidouAvatar.style.transition = "0.4s linear";
     } else if(localStorage.getItem('beidouAvatar') == 'comprado') {
-        beidouAvatar.innerHTML = "Esgotado";
         beidouAvatar.style.background = "#dd1440";
         beidouAvatar.style.transition = "0.4s linear";
     } else if(localStorage.getItem('beidouAvatar') !== 'comprado' && localStorage.getItem('Money') < 600) {
         beidouAvatar.style.fontSize = "8pt";
-        beidouAvatar.innerHTML = "Mora Insuficiente";
+        beidouAvatar.innerHTML = "Indisponivel";
         beidouAvatar.style.background = "#dd1440";
         beidouAvatar.style.transition = "0.4s linear";
         setTimeout(() => {
@@ -1443,8 +1410,7 @@ export const xinyanAvatarCompra = () => {
         xinyanAvatar.style.background = "#dd1440";
         xinyanAvatar.style.transition = "0.4s linear";
     } else if(localStorage.getItem('xinyanAvatar') !== 'comprado' && localStorage.getItem('Money') < 600) {
-        xinyanAvatar.style.fontSize = "8pt";
-        xinyanAvatar.innerHTML = "Mora Insuficiente";
+        xinyanAvatar.innerHTML = "Indisponivel";
         xinyanAvatar.style.background = "#dd1440";
         xinyanAvatar.style.transition = "0.4s linear";
         setTimeout(() => {
@@ -1486,8 +1452,7 @@ export const xingqiuAvatarCompra = () => {
         xingqiuAvatar.style.background = "#dd1440";
         xingqiuAvatar.style.transition = "0.4s linear";
     } else if(localStorage.getItem('xingqiuAvatar') !== 'comprado' && localStorage.getItem('Money') < 600) {
-        xingqiuAvatar.style.fontSize = "8pt";
-        xingqiuAvatar.innerHTML = "Mora Insuficiente";
+        xingqiuAvatar.innerHTML = "Indisponivel";
         xingqiuAvatar.style.background = "#dd1440";
         xingqiuAvatar.style.transition = "0.4s linear";
         setTimeout(() => {
@@ -1529,8 +1494,7 @@ export const xianglingAvatarCompra = () => {
         xianglingAvatar.style.background = "#dd1440";
         xianglingAvatar.style.transition = "0.4s linear";
     } else if(localStorage.getItem('xianglingAvatar') !== 'comprado' && localStorage.getItem('Money') < 600) {
-        xianglingAvatar.style.fontSize = "8pt";
-        xianglingAvatar.innerHTML = "Mora Insuficiente";
+        xianglingAvatar.innerHTML = "Indisponivel";
         xianglingAvatar.style.background = "#dd1440";
         xianglingAvatar.style.transition = "0.4s linear";
         setTimeout(() => {
@@ -1572,8 +1536,7 @@ export const ningguangAvatarCompra = () => {
         ningguangAvatar.style.background = "#dd1440";
         ningguangAvatar.style.transition = "0.4s linear";
     } else if(localStorage.getItem('ningguangAvatar') !== 'comprado' && localStorage.getItem('Money') < 600) {
-        ningguangAvatar.style.fontSize = "8pt";
-        ningguangAvatar.innerHTML = "Mora Insuficiente";
+        ningguangAvatar.innerHTML = "Indisponivel";
         ningguangAvatar.style.background = "#dd1440";
         ningguangAvatar.style.transition = "0.4s linear";
         setTimeout(() => {
@@ -1617,8 +1580,7 @@ export const raidenAvatarCompra = () => {
         raidenAvatar.style.background = "#dd1440";
         raidenAvatar.style.transition = "0.4s linear";
     } else if(localStorage.getItem('raidenAvatar') !== 'comprado' && localStorage.getItem('Money') < 800) {
-        raidenAvatar.style.fontSize = "8pt";
-        raidenAvatar.innerHTML = "Mora Insuficiente";
+        raidenAvatar.innerHTML = "Indisponivel";
         raidenAvatar.style.background = "#dd1440";
         raidenAvatar.style.transition = "0.4s linear";
         setTimeout(() => {
@@ -1660,8 +1622,7 @@ export const kazuhaAvatarCompra = () => {
         kazuhaAvatar.style.background = "#dd1440";
         kazuhaAvatar.style.transition = "0.4s linear";
     } else if(localStorage.getItem('kazuhaAvatar') !== 'comprado' && localStorage.getItem('Money') < 800) {
-        kazuhaAvatar.style.fontSize = "8pt";
-        kazuhaAvatar.innerHTML = "Mora Insuficiente";
+        kazuhaAvatar.innerHTML = "Indisponivel";
         kazuhaAvatar.style.background = "#dd1440";
         kazuhaAvatar.style.transition = "0.4s linear";
         setTimeout(() => {
@@ -1703,8 +1664,7 @@ export const ayakaAvatarCompra = () => {
         ayakaAvatar.style.background = "#dd1440";
         ayakaAvatar.style.transition = "0.4s linear";
     } else if(localStorage.getItem('ayakaAvatar') !== 'comprado' && localStorage.getItem('Money') < 800) {
-        ayakaAvatar.style.fontSize = "8pt";
-        ayakaAvatar.innerHTML = "Mora Insuficiente";
+        ayakaAvatar.innerHTML = "Indisponivel";
         ayakaAvatar.style.background = "#dd1440";
         ayakaAvatar.style.transition = "0.4s linear";
         setTimeout(() => {
@@ -1746,8 +1706,7 @@ export const yoimiyaAvatarCompra = () => {
         yoimiyaAvatar.style.background = "#dd1440";
         yoimiyaAvatar.style.transition = "0.4s linear";
     } else if(localStorage.getItem('yoimiyaAvatar') !== 'comprado' && localStorage.getItem('Money') < 800) {
-        yoimiyaAvatar.style.fontSize = "8pt";
-        yoimiyaAvatar.innerHTML = "Mora Insuficiente";
+        yoimiyaAvatar.innerHTML = "Indisponivel";
         yoimiyaAvatar.style.background = "#dd1440";
         yoimiyaAvatar.style.transition = "0.4s linear";
         setTimeout(() => {
@@ -1789,8 +1748,7 @@ export const yaemikoAvatarCompra = () => {
         yaemikoAvatar.style.background = "#dd1440";
         yaemikoAvatar.style.transition = "0.4s linear";
     } else if(localStorage.getItem('yaemikoAvatar') !== 'comprado' && localStorage.getItem('Money') < 800) {
-        yaemikoAvatar.style.fontSize = "8pt";
-        yaemikoAvatar.innerHTML = "Mora Insuficiente";
+        yaemikoAvatar.innerHTML = "Indisponivel";
         yaemikoAvatar.style.background = "#dd1440";
         yaemikoAvatar.style.transition = "0.4s linear";
         setTimeout(() => {
@@ -1832,8 +1790,7 @@ export const aratakiAvatarCompra = () => {
         aratakiAvatar.style.background = "#dd1440";
         aratakiAvatar.style.transition = "0.4s linear";
     } else if(localStorage.getItem('aratakiAvatar') !== 'comprado' && localStorage.getItem('Money') < 800) {
-        aratakiAvatar.style.fontSize = "8pt";
-        aratakiAvatar.innerHTML = "Mora Insuficiente";
+        aratakiAvatar.innerHTML = "Indisponivel";
         aratakiAvatar.style.background = "#dd1440";
         aratakiAvatar.style.transition = "0.4s linear";
         setTimeout(() => {
@@ -1875,8 +1832,7 @@ export const ayatoAvatarCompra = () => {
         ayatoAvatar.style.background = "#dd1440";
         ayatoAvatar.style.transition = "0.4s linear";
     } else if(localStorage.getItem('ayatoAvatar') !== 'comprado' && localStorage.getItem('Money') < 800) {
-        ayatoAvatar.style.fontSize = "8pt";
-        ayatoAvatar.innerHTML = "Mora Insuficiente";
+        ayatoAvatar.innerHTML = "Indisponivel";
         ayatoAvatar.style.background = "#dd1440";
         ayatoAvatar.style.transition = "0.4s linear";
         setTimeout(() => {
@@ -1918,8 +1874,7 @@ export const kokomiAvatarCompra = () => {
         kokomiAvatar.style.background = "#dd1440";
         kokomiAvatar.style.transition = "0.4s linear";
     } else if(localStorage.getItem('kokomiAvatar') !== 'comprado' && localStorage.getItem('Money') < 800) {
-        kokomiAvatar.style.fontSize = "8pt";
-        kokomiAvatar.innerHTML = "Mora Insuficiente";
+        kokomiAvatar.innerHTML = "Indisponivel";
         kokomiAvatar.style.background = "#dd1440";
         kokomiAvatar.style.transition = "0.4s linear";
         setTimeout(() => {
@@ -1961,8 +1916,7 @@ export const kiraraAvatarCompra = () => {
         kiraraAvatar.style.background = "#dd1440";
         kiraraAvatar.style.transition = "0.4s linear";
     } else if(localStorage.getItem('kiraraAvatar') !== 'comprado' && localStorage.getItem('Money') < 600) {
-        kiraraAvatar.style.fontSize = "8pt";
-        kiraraAvatar.innerHTML = "Mora Insuficiente";
+        kiraraAvatar.innerHTML = "Indisponivel";
         kiraraAvatar.style.background = "#dd1440";
         kiraraAvatar.style.transition = "0.4s linear";
         setTimeout(() => {
@@ -2004,8 +1958,7 @@ export const heizouAvatarCompra = () => {
         heizouAvatar.style.background = "#dd1440";
         heizouAvatar.style.transition = "0.4s linear";
     } else if(localStorage.getItem('heizouAvatar') !== 'comprado' && localStorage.getItem('Money') < 600) {
-        heizouAvatar.style.fontSize = "8pt";
-        heizouAvatar.innerHTML = "Mora Insuficiente";
+        heizouAvatar.innerHTML = "Indisponivel";
         heizouAvatar.style.background = "#dd1440";
         heizouAvatar.style.transition = "0.4s linear";
         setTimeout(() => {
@@ -2047,8 +2000,7 @@ export const kukiAvatarCompra = () => {
         kukiAvatar.style.background = "#dd1440";
         kukiAvatar.style.transition = "0.4s linear";
     } else if(localStorage.getItem('kukiAvatar') !== 'comprado' && localStorage.getItem('Money') < 600) {
-        kukiAvatar.style.fontSize = "8pt";
-        kukiAvatar.innerHTML = "Mora Insuficiente";
+        kukiAvatar.innerHTML = "Indisponivel";
         kukiAvatar.style.background = "#dd1440";
         kukiAvatar.style.transition = "0.4s linear";
         setTimeout(() => {
@@ -2090,8 +2042,7 @@ export const saraAvatarCompra = () => {
         saraAvatar.style.background = "#dd1440";
         saraAvatar.style.transition = "0.4s linear";
     } else if(localStorage.getItem('saraAvatar') !== 'comprado' && localStorage.getItem('Money') < 600) {
-        saraAvatar.style.fontSize = "8pt";
-        saraAvatar.innerHTML = "Mora Insuficiente";
+        saraAvatar.innerHTML = "Indisponivel";
         saraAvatar.style.background = "#dd1440";
         saraAvatar.style.transition = "0.4s linear";
         setTimeout(() => {
@@ -2133,8 +2084,7 @@ export const sayuAvatarCompra = () => {
         sayuAvatar.style.background = "#dd1440";
         sayuAvatar.style.transition = "0.4s linear";
     } else if(localStorage.getItem('sayuAvatar') !== 'comprado' && localStorage.getItem('Money') < 600) {
-        sayuAvatar.style.fontSize = "8pt";
-        sayuAvatar.innerHTML = "Mora Insuficiente";
+        sayuAvatar.innerHTML = "Indisponivel";
         sayuAvatar.style.background = "#dd1440";
         sayuAvatar.style.transition = "0.4s linear";
         setTimeout(() => {
@@ -2176,8 +2126,7 @@ export const thomaAvatarCompra = () => {
         thomaAvatar.style.background = "#dd1440";
         thomaAvatar.style.transition = "0.4s linear";
     } else if(localStorage.getItem('thomaAvatar') !== 'comprado' && localStorage.getItem('Money') < 600) {
-        thomaAvatar.style.fontSize = "8pt";
-        thomaAvatar.innerHTML = "Mora Insuficiente";
+        thomaAvatar.innerHTML = "Indisponivel";
         thomaAvatar.style.background = "#dd1440";
         thomaAvatar.style.transition = "0.4s linear";
         setTimeout(() => {
@@ -2219,8 +2168,7 @@ export const gorouAvatarCompra = () => {
         gorouAvatar.style.background = "#dd1440";
         gorouAvatar.style.transition = "0.4s linear";
     } else if(localStorage.getItem('gorouAvatar') !== 'comprado' && localStorage.getItem('Money') < 600) {
-        gorouAvatar.style.fontSize = "8pt";
-        gorouAvatar.innerHTML = "Mora Insuficiente";
+        gorouAvatar.innerHTML = "Indisponivel";
         gorouAvatar.style.background = "#dd1440";
         gorouAvatar.style.transition = "0.4s linear";
         setTimeout(() => {
@@ -2264,8 +2212,7 @@ export const nahidaAvatarCompra = () => {
         nahidaAvatar.style.background = "#dd1440";
         nahidaAvatar.style.transition = "0.4s linear";
     } else if(localStorage.getItem('nahidaAvatar') !== 'comprado' && localStorage.getItem('Money') < 800) {
-        nahidaAvatar.style.fontSize = "8pt";
-        nahidaAvatar.innerHTML = "Mora Insuficiente";
+        nahidaAvatar.innerHTML = "Indisponivel";
         nahidaAvatar.style.background = "#dd1440";
         nahidaAvatar.style.transition = "0.4s linear";
         setTimeout(() => {
@@ -2307,8 +2254,7 @@ export const dehyaAvatarCompra = () => {
         dehyaAvatar.style.background = "#dd1440";
         dehyaAvatar.style.transition = "0.4s linear";
     } else if(localStorage.getItem('dehyaAvatar') !== 'comprado' && localStorage.getItem('Money') < 800) {
-        dehyaAvatar.style.fontSize = "8pt";
-        dehyaAvatar.innerHTML = "Mora Insuficiente";
+        dehyaAvatar.innerHTML = "Indisponivel";
         dehyaAvatar.style.background = "#dd1440";
         dehyaAvatar.style.transition = "0.4s linear";
         setTimeout(() => {
@@ -2350,8 +2296,7 @@ export const cynoAvatarCompra = () => {
         cynoAvatar.style.background = "#dd1440";
         cynoAvatar.style.transition = "0.4s linear";
     } else if(localStorage.getItem('cynoAvatar') !== 'comprado' && localStorage.getItem('Money') < 800) {
-        cynoAvatar.style.fontSize = "8pt";
-        cynoAvatar.innerHTML = "Mora Insuficiente";
+        cynoAvatar.innerHTML = "Indisponivel";
         cynoAvatar.style.background = "#dd1440";
         cynoAvatar.style.transition = "0.4s linear";
         setTimeout(() => {
@@ -2393,8 +2338,7 @@ export const alhaithamAvatarCompra = () => {
         alhaithamAvatar.style.background = "#dd1440";
         alhaithamAvatar.style.transition = "0.4s linear";
     } else if(localStorage.getItem('alhaithamAvatar') !== 'comprado' && localStorage.getItem('Money') < 800) {
-        alhaithamAvatar.style.fontSize = "8pt";
-        alhaithamAvatar.innerHTML = "Mora Insuficiente";
+        alhaithamAvatar.innerHTML = "Indisponivel";
         alhaithamAvatar.style.background = "#dd1440";
         alhaithamAvatar.style.transition = "0.4s linear";
         setTimeout(() => {
@@ -2436,8 +2380,7 @@ export const wandererAvatarCompra = () => {
         wandererAvatar.style.background = "#dd1440";
         wandererAvatar.style.transition = "0.4s linear";
     } else if(localStorage.getItem('wandererAvatar') !== 'comprado' && localStorage.getItem('Money') < 800) {
-        wandererAvatar.style.fontSize = "8pt";
-        wandererAvatar.innerHTML = "Mora Insuficiente";
+        wandererAvatar.innerHTML = "Indisponivel";
         wandererAvatar.style.background = "#dd1440";
         wandererAvatar.style.transition = "0.4s linear";
         setTimeout(() => {
@@ -2479,8 +2422,7 @@ export const nilouAvatarCompra = () => {
         nilouAvatar.style.background = "#dd1440";
         nilouAvatar.style.transition = "0.4s linear";
     } else if(localStorage.getItem('nilouAvatar') !== 'comprado' && localStorage.getItem('Money') < 800) {
-        nilouAvatar.style.fontSize = "8pt";
-        nilouAvatar.innerHTML = "Mora Insuficiente";
+        nilouAvatar.innerHTML = "Indisponivel";
         nilouAvatar.style.background = "#dd1440";
         nilouAvatar.style.transition = "0.4s linear";
         setTimeout(() => {
@@ -2522,8 +2464,7 @@ export const tighnariAvatarCompra = () => {
         tighnariAvatar.style.background = "#dd1440";
         tighnariAvatar.style.transition = "0.4s linear";
     } else if(localStorage.getItem('tighnariAvatar') !== 'comprado' && localStorage.getItem('Money') < 800) {
-        tighnariAvatar.style.fontSize = "8pt";
-        tighnariAvatar.innerHTML = "Mora Insuficiente";
+        tighnariAvatar.innerHTML = "Indisponivel";
         tighnariAvatar.style.background = "#dd1440";
         tighnariAvatar.style.transition = "0.4s linear";
         setTimeout(() => {
@@ -2565,8 +2506,7 @@ export const colleiAvatarCompra = () => {
         colleiAvatar.style.background = "#dd1440";
         colleiAvatar.style.transition = "0.4s linear";
     } else if(localStorage.getItem('colleiAvatar') !== 'comprado' && localStorage.getItem('Money') < 600) {
-        colleiAvatar.style.fontSize = "8pt";
-        colleiAvatar.innerHTML = "Mora Insuficiente";
+        colleiAvatar.innerHTML = "Indisponivel";
         colleiAvatar.style.background = "#dd1440";
         colleiAvatar.style.transition = "0.4s linear";
         setTimeout(() => {
@@ -2608,8 +2548,7 @@ export const doriAvatarCompra = () => {
         doriAvatar.style.background = "#dd1440";
         doriAvatar.style.transition = "0.4s linear";
     } else if(localStorage.getItem('doriAvatar') !== 'comprado' && localStorage.getItem('Money') < 600) {
-        doriAvatar.style.fontSize = "8pt";
-        doriAvatar.innerHTML = "Mora Insuficiente";
+        doriAvatar.innerHTML = "Indisponivel";
         doriAvatar.style.background = "#dd1440";
         doriAvatar.style.transition = "0.4s linear";
         setTimeout(() => {
@@ -2651,8 +2590,7 @@ export const kavehAvatarCompra = () => {
         kavehAvatar.style.background = "#dd1440";
         kavehAvatar.style.transition = "0.4s linear";
     } else if(localStorage.getItem('kavehAvatar') !== 'comprado' && localStorage.getItem('Money') < 600) {
-        kavehAvatar.style.fontSize = "8pt";
-        kavehAvatar.innerHTML = "Mora Insuficiente";
+        kavehAvatar.innerHTML = "Indisponivel";
         kavehAvatar.style.background = "#dd1440";
         kavehAvatar.style.transition = "0.4s linear";
         setTimeout(() => {
@@ -2694,8 +2632,7 @@ export const laylaAvatarCompra = () => {
         laylaAvatar.style.background = "#dd1440";
         laylaAvatar.style.transition = "0.4s linear";
     } else if(localStorage.getItem('laylaAvatar') !== 'comprado' && localStorage.getItem('Money') < 600) {
-        laylaAvatar.style.fontSize = "8pt";
-        laylaAvatar.innerHTML = "Mora Insuficiente";
+        laylaAvatar.innerHTML = "Indisponivel";
         laylaAvatar.style.background = "#dd1440";
         laylaAvatar.style.transition = "0.4s linear";
         setTimeout(() => {
@@ -2737,8 +2674,7 @@ export const faruzanAvatarCompra = () => {
         faruzanAvatar.style.background = "#dd1440";
         faruzanAvatar.style.transition = "0.4s linear";
     } else if(localStorage.getItem('faruzanAvatar') !== 'comprado' && localStorage.getItem('Money') < 600) {
-        faruzanAvatar.style.fontSize = "8pt";
-        faruzanAvatar.innerHTML = "Mora Insuficiente";
+        faruzanAvatar.innerHTML = "Indisponivel";
         faruzanAvatar.style.background = "#dd1440";
         faruzanAvatar.style.transition = "0.4s linear";
         setTimeout(() => {
@@ -2780,8 +2716,7 @@ export const candaceAvatarCompra = () => {
         candaceAvatar.style.background = "#dd1440";
         candaceAvatar.style.transition = "0.4s linear";
     } else if(localStorage.getItem('candaceAvatar') !== 'comprado' && localStorage.getItem('Money') < 600) {
-        candaceAvatar.style.fontSize = "8pt";
-        candaceAvatar.innerHTML = "Mora Insuficiente";
+        candaceAvatar.innerHTML = "Indisponivel";
         candaceAvatar.style.background = "#dd1440";
         candaceAvatar.style.transition = "0.4s linear";
         setTimeout(() => {
@@ -2825,8 +2760,7 @@ export const neuvilletteAvatarCompra = () => {
         neuvilletteAvatar.style.background = "#dd1440";
         neuvilletteAvatar.style.transition = "0.4s linear";
     } else if(localStorage.getItem('neuvilletteAvatar') !== 'comprado' && localStorage.getItem('Money') < 800) {
-        neuvilletteAvatar.style.fontSize = "8pt";
-        neuvilletteAvatar.innerHTML = "Mora Insuficiente";
+        neuvilletteAvatar.innerHTML = "Indisponivel";
         neuvilletteAvatar.style.background = "#dd1440";
         neuvilletteAvatar.style.transition = "0.4s linear";
         setTimeout(() => {
@@ -2868,8 +2802,7 @@ export const furinaAvatarCompra = () => {
         furinaAvatar.style.background = "#dd1440";
         furinaAvatar.style.transition = "0.4s linear";
     } else if(localStorage.getItem('furinaAvatar') !== 'comprado' && localStorage.getItem('Money') < 800) {
-        furinaAvatar.style.fontSize = "8pt";
-        furinaAvatar.innerHTML = "Mora Insuficiente";
+        furinaAvatar.innerHTML = "Indisponivel";
         furinaAvatar.style.background = "#dd1440";
         furinaAvatar.style.transition = "0.4s linear";
         setTimeout(() => {
@@ -2911,8 +2844,7 @@ export const lyneyAvatarCompra = () => {
         lyneyAvatar.style.background = "#dd1440";
         lyneyAvatar.style.transition = "0.4s linear";
     } else if(localStorage.getItem('lyneyAvatar') !== 'comprado' && localStorage.getItem('Money') < 800) {
-        lyneyAvatar.style.fontSize = "8pt";
-        lyneyAvatar.innerHTML = "Mora Insuficiente";
+        lyneyAvatar.innerHTML = "Indisponivel";
         lyneyAvatar.style.background = "#dd1440";
         lyneyAvatar.style.transition = "0.4s linear";
         setTimeout(() => {
@@ -2954,8 +2886,7 @@ export const naviaAvatarCompra = () => {
         naviaAvatar.style.background = "#dd1440";
         naviaAvatar.style.transition = "0.4s linear";
     } else if(localStorage.getItem('naviaAvatar') !== 'comprado' && localStorage.getItem('Money') < 800) {
-        naviaAvatar.style.fontSize = "8pt";
-        naviaAvatar.innerHTML = "Mora Insuficiente";
+        naviaAvatar.innerHTML = "Indisponivel";
         naviaAvatar.style.background = "#dd1440";
         naviaAvatar.style.transition = "0.4s linear";
         setTimeout(() => {
@@ -2997,8 +2928,7 @@ export const wriothesleyAvatarCompra = () => {
         wriothesleyAvatar.style.background = "#dd1440";
         wriothesleyAvatar.style.transition = "0.4s linear";
     } else if(localStorage.getItem('wriothesleyAvatar') !== 'comprado' && localStorage.getItem('Money') < 800) {
-        wriothesleyAvatar.style.fontSize = "8pt";
-        wriothesleyAvatar.innerHTML = "Mora Insuficiente";
+        wriothesleyAvatar.innerHTML = "Indisponivel";
         wriothesleyAvatar.style.background = "#dd1440";
         wriothesleyAvatar.style.transition = "0.4s linear";
         setTimeout(() => {
@@ -3040,8 +2970,7 @@ export const freminetAvatarCompra = () => {
         freminetAvatar.style.background = "#dd1440";
         freminetAvatar.style.transition = "0.4s linear";
     } else if(localStorage.getItem('freminetAvatar') !== 'comprado' && localStorage.getItem('Money') < 600) {
-        freminetAvatar.style.fontSize = "8pt";
-        freminetAvatar.innerHTML = "Mora Insuficiente";
+        freminetAvatar.innerHTML = "Indisponivel";
         freminetAvatar.style.background = "#dd1440";
         freminetAvatar.style.transition = "0.4s linear";
         setTimeout(() => {
@@ -3083,8 +3012,7 @@ export const lynetteAvatarCompra = () => {
         lynetteAvatar.style.background = "#dd1440";
         lynetteAvatar.style.transition = "0.4s linear";
     } else if(localStorage.getItem('lynetteAvatar') !== 'comprado' && localStorage.getItem('Money') < 600) {
-        lynetteAvatar.style.fontSize = "8pt";
-        lynetteAvatar.innerHTML = "Mora Insuficiente";
+        lynetteAvatar.innerHTML = "Indisponivel";
         lynetteAvatar.style.background = "#dd1440";
         lynetteAvatar.style.transition = "0.4s linear";
         setTimeout(() => {
@@ -3126,8 +3054,7 @@ export const charlotteAvatarCompra = () => {
         charlotteAvatar.style.background = "#dd1440";
         charlotteAvatar.style.transition = "0.4s linear";
     } else if(localStorage.getItem('charlotteAvatar') !== 'comprado' && localStorage.getItem('Money') < 600) {
-        charlotteAvatar.style.fontSize = "8pt";
-        charlotteAvatar.innerHTML = "Mora Insuficiente";
+        charlotteAvatar.innerHTML = "Indisponivel";
         charlotteAvatar.style.background = "#dd1440";
         charlotteAvatar.style.transition = "0.4s linear";
         setTimeout(() => {
@@ -3169,8 +3096,7 @@ export const chevreuseAvatarCompra = () => {
         chevreuseAvatar.style.background = "#dd1440";
         chevreuseAvatar.style.transition = "0.4s linear";
     } else if(localStorage.getItem('chevreuseAvatar') !== 'comprado' && localStorage.getItem('Money') < 600) {
-        chevreuseAvatar.style.fontSize = "8pt";
-        chevreuseAvatar.innerHTML = "Mora Insuficiente";
+        chevreuseAvatar.innerHTML = "Indisponivel";
         chevreuseAvatar.style.background = "#dd1440";
         chevreuseAvatar.style.transition = "0.4s linear";
         setTimeout(() => {
@@ -3214,8 +3140,7 @@ export const tartagliaAvatarCompra = () => {
         tartagliaAvatar.style.background = "#dd1440";
         tartagliaAvatar.style.transition = "0.4s linear";
     } else if(localStorage.getItem('tartagliaAvatar') !== 'comprado' && localStorage.getItem('Money') < 800) {
-        tartagliaAvatar.style.fontSize = "8pt";
-        tartagliaAvatar.innerHTML = "Mora Insuficiente";
+        tartagliaAvatar.innerHTML = "Indisponivel";
         tartagliaAvatar.style.background = "#dd1440";
         tartagliaAvatar.style.transition = "0.4s linear";
         setTimeout(() => {
@@ -3259,8 +3184,7 @@ export const dilucSkinAvatarCompra = () => {
         dilucAvatarSkin.style.background = "#dd1440";
         dilucAvatarSkin.style.transition = "0.4s linear";
     } else if(localStorage.getItem('dilucSkinAvatar') !== 'comprado' && localStorage.getItem('Money') < 1000) {
-        dilucAvatarSkin.style.fontSize = "8pt";
-        dilucAvatarSkin.innerHTML = "Mora Insuficiente";
+        dilucAvatarSkin.innerHTML = "Indisponivel";
         dilucAvatarSkin.style.background = "#dd1440";
         dilucAvatarSkin.style.transition = "0.4s linear";
         setTimeout(() => {
@@ -3302,8 +3226,7 @@ export const jeanSkinAvatarCompra = () => {
         jeanAvatarSkin.style.background = "#dd1440";
         jeanAvatarSkin.style.transition = "0.4s linear";
     } else if(localStorage.getItem('jeanSkinAvatar') !== 'comprado' && localStorage.getItem('Money') < 1000) {
-        jeanAvatarSkin.style.fontSize = "8pt";
-        jeanAvatarSkin.innerHTML = "Mora Insuficiente";
+        jeanAvatarSkin.innerHTML = "Indisponivel";
         jeanAvatarSkin.style.background = "#dd1440";
         jeanAvatarSkin.style.transition = "0.4s linear";
         setTimeout(() => {
@@ -3345,8 +3268,7 @@ export const kleeSkinAvatarCompra = () => {
         kleeAvatarSkin.style.background = "#dd1440";
         kleeAvatarSkin.style.transition = "0.4s linear";
     } else if(localStorage.getItem('kleeSkinAvatar') !== 'comprado' && localStorage.getItem('Money') < 1000) {
-        kleeAvatarSkin.style.fontSize = "8pt";
-        kleeAvatarSkin.innerHTML = "Mora Insuficiente";
+        kleeAvatarSkin.innerHTML = "Indisponivel";
         kleeAvatarSkin.style.background = "#dd1440";
         kleeAvatarSkin.style.transition = "0.4s linear";
         setTimeout(() => {
@@ -3388,8 +3310,7 @@ export const ayakaSkinAvatarCompra = () => {
         ayakaAvatarSkin.style.background = "#dd1440";
         ayakaAvatarSkin.style.transition = "0.4s linear";
     } else if(localStorage.getItem('ayakaSkinAvatar') !== 'comprado' && localStorage.getItem('Money') < 1000) {
-        ayakaAvatarSkin.style.fontSize = "8pt";
-        ayakaAvatarSkin.innerHTML = "Mora Insuficiente";
+        ayakaAvatarSkin.innerHTML = "Indisponivel";
         ayakaAvatarSkin.style.background = "#dd1440";
         ayakaAvatarSkin.style.transition = "0.4s linear";
         setTimeout(() => {
@@ -3431,8 +3352,7 @@ export const fischlSkinAvatarCompra = () => {
         fischlAvatarSkin.style.background = "#dd1440";
         fischlAvatarSkin.style.transition = "0.4s linear";
     } else if(localStorage.getItem('fischlSkinAvatar') !== 'comprado' && localStorage.getItem('Money') < 1000) {
-        fischlAvatarSkin.style.fontSize = "8pt";
-        fischlAvatarSkin.innerHTML = "Mora Insuficiente";
+        fischlAvatarSkin.innerHTML = "Indisponivel";
         fischlAvatarSkin.style.background = "#dd1440";
         fischlAvatarSkin.style.transition = "0.4s linear";
         setTimeout(() => {
@@ -3474,8 +3394,7 @@ export const ningguangSkinAvatarCompra = () => {
         ningguangAvatarSkin.style.background = "#dd1440";
         ningguangAvatarSkin.style.transition = "0.4s linear";
     } else if(localStorage.getItem('ningguangSkinAvatar') !== 'comprado' && localStorage.getItem('Money') < 1000) {
-        ningguangAvatarSkin.style.fontSize = "8pt";
-        ningguangAvatarSkin.innerHTML = "Mora Insuficiente";
+        ningguangAvatarSkin.innerHTML = "Indisponivel";
         ningguangAvatarSkin.style.background = "#dd1440";
         ningguangAvatarSkin.style.transition = "0.4s linear";
         setTimeout(() => {
@@ -3517,8 +3436,7 @@ export const lisaSkinAvatarCompra = () => {
         lisaAvatarSkin.style.background = "#dd1440";
         lisaAvatarSkin.style.transition = "0.4s linear";
     } else if(localStorage.getItem('lisaSkinAvatar') !== 'comprado' && localStorage.getItem('Money') < 1000) {
-        lisaAvatarSkin.style.fontSize = "8pt";
-        lisaAvatarSkin.innerHTML = "Mora Insuficiente";
+        lisaAvatarSkin.innerHTML = "Indisponivel";
         lisaAvatarSkin.style.background = "#dd1440";
         lisaAvatarSkin.style.transition = "0.4s linear";
         setTimeout(() => {
@@ -3560,8 +3478,7 @@ export const barbaraSkinAvatarCompra = () => {
         barbaraAvatarSkin.style.background = "#dd1440";
         barbaraAvatarSkin.style.transition = "0.4s linear";
     } else if(localStorage.getItem('barbaraSkinAvatar') !== 'comprado' && localStorage.getItem('Money') < 1000) {
-        barbaraAvatarSkin.style.fontSize = "8pt";
-        barbaraAvatarSkin.innerHTML = "Mora Insuficiente";
+        barbaraAvatarSkin.innerHTML = "Indisponivel";
         barbaraAvatarSkin.style.background = "#dd1440";
         barbaraAvatarSkin.style.transition = "0.4s linear";
         setTimeout(() => {
@@ -3603,8 +3520,7 @@ export const keqingSkinAvatarCompra = () => {
         keqingAvatarSkin.style.background = "#dd1440";
         keqingAvatarSkin.style.transition = "0.4s linear";
     } else if(localStorage.getItem('keqingSkinAvatar') !== 'comprado' && localStorage.getItem('Money') < 1000) {
-        keqingAvatarSkin.style.fontSize = "8pt";
-        keqingAvatarSkin.innerHTML = "Mora Insuficiente";
+        keqingAvatarSkin.innerHTML = "Indisponivel";
         keqingAvatarSkin.style.background = "#dd1440";
         keqingSkinAvatar.style.transition = "0.4s linear";
         setTimeout(() => {
@@ -3646,8 +3562,7 @@ export const kaeyaSkinAvatarCompra = () => {
         kaeyaAvatarSkin.style.background = "#dd1440";
         kaeyaAvatarSkin.style.transition = "0.4s linear";
     } else if(localStorage.getItem('kaeyaSkinAvatar') !== 'comprado' && localStorage.getItem('Money') < 1000) {
-        kaeyaAvatarSkin.style.fontSize = "8pt";
-        kaeyaAvatarSkin.innerHTML = "Mora Insuficiente";
+        kaeyaAvatarSkin.innerHTML = "Indisponivel";
         kaeyaAvatarSkin.style.background = "#dd1440";
         kaeyaAvatarSkin.style.transition = "0.4s linear";
         setTimeout(() => {
