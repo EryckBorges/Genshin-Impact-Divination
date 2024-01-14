@@ -29,7 +29,7 @@ export const ventiUser = () => {
         venti.style.background = '#dd1440';
         venti.style.transition = '0.5s linear';
         setTimeout(() => {
-            venti.style.background = "url('/icon/Background5.png')";
+            venti.style.background = "linear-gradient(90deg, rgb(90, 80, 37),rgb(194, 162, 56), rgb(228, 193, 79))";
             venti.style.backgroundPosition = 'center';
             venti.style.backgroundRepeat = 'no-repeat';
             venti.style.backgroundSize = 'cover';
@@ -54,7 +54,7 @@ export const dilucUser = () => {
         diluc.style.background = '#dd1440';
         diluc.style.transition = '0.5s linear';
         setTimeout(() => {
-            diluc.style.background = "url('/icon/Background5.png')";
+            diluc.style.background = "linear-gradient(90deg, rgb(90, 80, 37),rgb(194, 162, 56), rgb(228, 193, 79))";
             diluc.style.backgroundPosition = 'center';
             diluc.style.backgroundRepeat = 'no-repeat';
             diluc.style.backgroundSize = 'cover';
@@ -79,7 +79,7 @@ export const albedoUser = () => {
         albedo.style.background = '#dd1440';
         albedo.style.transition = '0.5s linear';
         setTimeout(() => {
-            albedo.style.background = "url('/icon/Background5.png')";
+            albedo.style.background = "linear-gradient(90deg, rgb(90, 80, 37),rgb(194, 162, 56), rgb(228, 193, 79))";
             albedo.style.backgroundPosition = 'center';
             albedo.style.backgroundRepeat = 'no-repeat';
             albedo.style.backgroundSize = 'cover';
@@ -104,7 +104,7 @@ export const jeanUser = () => {
         jean.style.background = '#dd1440';
         jean.style.transition = '0.5s linear';
         setTimeout(() => {
-            jean.style.background = "url('/icon/Background5.png')";
+            jean.style.background = "linear-gradient(90deg, rgb(90, 80, 37),rgb(194, 162, 56), rgb(228, 193, 79))";
             jean.style.backgroundPosition = 'center';
             jean.style.backgroundRepeat = 'no-repeat';
             jean.style.backgroundSize = 'cover';
@@ -129,7 +129,7 @@ export const kleeUser = () => {
         klee.style.background = '#dd1440';
         klee.style.transition = '0.5s linear';
         setTimeout(() => {
-            klee.style.background = "url('/icon/Background5.png')";
+            klee.style.background = "linear-gradient(90deg, rgb(90, 80, 37),rgb(194, 162, 56), rgb(228, 193, 79))";
             klee.style.backgroundPosition = 'center';
             klee.style.backgroundRepeat = 'no-repeat';
             klee.style.backgroundSize = 'cover';
@@ -154,7 +154,7 @@ export const eulaUser = () => {
         eula.style.background = '#dd1440';
         eula.style.transition = '0.5s linear';
         setTimeout(() => {
-            eula.style.background = "url('/icon/Background5.png')";
+            eula.style.background = "linear-gradient(90deg, rgb(90, 80, 37),rgb(194, 162, 56), rgb(228, 193, 79))";
             eula.style.backgroundPosition = 'center';
             eula.style.backgroundRepeat = 'no-repeat';
             eula.style.backgroundSize = 'cover';
@@ -179,7 +179,7 @@ export const monaUser = () => {
         mona.style.background = '#dd1440';
         mona.style.transition = '0.5s linear';
         setTimeout(() => {
-            mona.style.background = "url('/icon/Background5.png')";
+            mona.style.background = "linear-gradient(90deg, rgb(90, 80, 37),rgb(194, 162, 56), rgb(228, 193, 79))";
             mona.style.backgroundPosition = 'center';
             mona.style.backgroundRepeat = 'no-repeat';
             mona.style.backgroundSize = 'cover';
@@ -204,7 +204,7 @@ export const barbaraUser = () => {
         barbara.style.background = '#dd1440';
         barbara.style.transition = '0.5s linear';
         setTimeout(() => {
-            barbara.style.background = "url('/icon/Background4.png')";
+            barbara.style.background = "linear-gradient(90deg, rgb(66, 35, 83),rgb(135, 98, 165), rgb(162, 134, 228))";
             barbara.style.backgroundPosition = 'center';
             barbara.style.backgroundRepeat = 'no-repeat';
             barbara.style.backgroundSize = 'cover';
@@ -229,7 +229,7 @@ export const amberUser = () => {
         amber.style.background = '#dd1440';
         amber.style.transition = '0.5s linear';
         setTimeout(() => {
-            amber.style.background = "url('/icon/Background4.png')";
+            amber.style.background = "linear-gradient(90deg, rgb(66, 35, 83),rgb(135, 98, 165), rgb(162, 134, 228))";
             amber.style.backgroundPosition = 'center';
             amber.style.backgroundRepeat = 'no-repeat';
             amber.style.backgroundSize = 'cover';
@@ -254,7 +254,7 @@ export const fischlUser = () => {
         fischl.style.background = '#dd1440';
         fischl.style.transition = '0.5s linear';
         setTimeout(() => {
-            fischl.style.background = "url('/icon/Background4.png')";
+            fischl.style.background = "linear-gradient(90deg, rgb(66, 35, 83),rgb(135, 98, 165), rgb(162, 134, 228))";
             fischl.style.backgroundPosition = 'center';
             fischl.style.backgroundRepeat = 'no-repeat';
             fischl.style.backgroundSize = 'cover';
@@ -279,7 +279,7 @@ export const razorUser = () => {
         razor.style.background = '#dd1440';
         razor.style.transition = '0.5s linear';
         setTimeout(() => {
-            razor.style.background = "url('/icon/Background4.png')";
+            razor.style.background = "linear-gradient(90deg, rgb(66, 35, 83),rgb(135, 98, 165), rgb(162, 134, 228))";
             razor.style.backgroundPosition = 'center';
             razor.style.backgroundRepeat = 'no-repeat';
             razor.style.backgroundSize = 'cover';
@@ -304,7 +304,7 @@ export const dionaUser = () => {
         diona.style.background = '#dd1440';
         diona.style.transition = '0.5s linear';
         setTimeout(() => {
-            diona.style.background = "url('/icon/Background4.png')";
+            diona.style.background = "linear-gradient(90deg, rgb(66, 35, 83),rgb(135, 98, 165), rgb(162, 134, 228))";
             diona.style.backgroundPosition = 'center';
             diona.style.backgroundRepeat = 'no-repeat';
             diona.style.backgroundSize = 'cover';
@@ -329,7 +329,7 @@ export const lisaUser = () => {
         lisa.style.background = '#dd1440';
         lisa.style.transition = '0.5s linear';
         setTimeout(() => {
-            lisa.style.background = "url('/icon/Background4.png')";
+            lisa.style.background = "linear-gradient(90deg, rgb(66, 35, 83),rgb(135, 98, 165), rgb(162, 134, 228))";
             lisa.style.backgroundPosition = 'center';
             lisa.style.backgroundRepeat = 'no-repeat';
             lisa.style.backgroundSize = 'cover';
@@ -354,7 +354,7 @@ export const rosariaUser = () => {
         rosaria.style.background = '#dd1440';
         rosaria.style.transition = '0.5s linear';
         setTimeout(() => {
-            rosaria.style.background = "url('/icon/Background4.png')";
+            rosaria.style.background = "linear-gradient(90deg, rgb(66, 35, 83),rgb(135, 98, 165), rgb(162, 134, 228))";
             rosaria.style.backgroundPosition = 'center';
             rosaria.style.backgroundRepeat = 'no-repeat';
             rosaria.style.backgroundSize = 'cover';
@@ -379,7 +379,7 @@ export const sucroseUser = () => {
         sucrose.style.background = '#dd1440';
         sucrose.style.transition = '0.5s linear';
         setTimeout(() => {
-            sucrose.style.background = "url('/icon/Background4.png')";
+            sucrose.style.background = "linear-gradient(90deg, rgb(66, 35, 83),rgb(135, 98, 165), rgb(162, 134, 228))";
             sucrose.style.backgroundPosition = 'center';
             sucrose.style.backgroundRepeat = 'no-repeat';
             sucrose.style.backgroundSize = 'cover';
@@ -402,7 +402,7 @@ export const noelleUser = () => {
         noelle.style.background = '#dd1440';
         noelle.style.transition = '0.5s linear';
         setTimeout(() => {
-            noelle.style.background = "url('/icon/Background4.png')";
+            noelle.style.background = "linear-gradient(90deg, rgb(66, 35, 83),rgb(135, 98, 165), rgb(162, 134, 228))";
             noelle.style.backgroundPosition = 'center';
             noelle.style.backgroundRepeat = 'no-repeat';
             noelle.style.backgroundSize = 'cover';
@@ -426,7 +426,7 @@ export const bennettUser = () => {
         bennett.style.background = '#dd1440';
         bennett.style.transition = '0.5s linear';
         setTimeout(() => {
-            bennett.style.background = "url('/icon/Background4.png')";
+            bennett.style.background = "linear-gradient(90deg, rgb(66, 35, 83),rgb(135, 98, 165), rgb(162, 134, 228))";
             bennett.style.backgroundPosition = 'center';
             bennett.style.backgroundRepeat = 'no-repeat';
             bennett.style.backgroundSize = 'cover';
@@ -450,7 +450,7 @@ export const kaeyaUser = () => {
         kaeya.style.background = '#dd1440';
         kaeya.style.transition = '0.5s linear';
         setTimeout(() => {
-            kaeya.style.background = "url('/icon/Background4.png')";
+            kaeya.style.background = "linear-gradient(90deg, rgb(66, 35, 83),rgb(135, 98, 165), rgb(162, 134, 228))";
             kaeya.style.backgroundPosition = 'center';
             kaeya.style.backgroundRepeat = 'no-repeat';
             kaeya.style.backgroundSize = 'cover';
@@ -474,7 +474,7 @@ export const mikaUser = () => {
         mika.style.background = '#dd1440';
         mika.style.transition = '0.5s linear';
         setTimeout(() => {
-            mika.style.background = "url('/icon/Background5.png')";
+            mika.style.background = "linear-gradient(90deg, rgb(66, 35, 83),rgb(135, 98, 165), rgb(162, 134, 228))";
             mika.style.backgroundPosition = 'center';
             mika.style.backgroundRepeat = 'no-repeat';
             mika.style.backgroundSize = 'cover';
@@ -520,7 +520,7 @@ export const hutaoUser = () => {
         hutao.style.background = '#dd1440';
         hutao.style.transition = '0.5s linear';
         setTimeout(() => {
-            hutao.style.background = "url('/icon/Background5.png')";
+            hutao.style.background = "linear-gradient(90deg, rgb(90, 80, 37),rgb(194, 162, 56), rgb(228, 193, 79))";
             hutao.style.backgroundPosition = 'center';
             hutao.style.backgroundRepeat = 'no-repeat';
             hutao.style.backgroundSize = 'cover';
@@ -544,7 +544,7 @@ export const zhongliUser = () => {
         zhongli.style.background = '#dd1440';
         zhongli.style.transition = '0.5s linear';
         setTimeout(() => {
-            zhongli.style.background = "url('/icon/Background5.png')";
+            zhongli.style.background = "linear-gradient(90deg, rgb(90, 80, 37),rgb(194, 162, 56), rgb(228, 193, 79))";
             zhongli.style.backgroundPosition = 'center';
             zhongli.style.backgroundRepeat = 'no-repeat';
             zhongli.style.backgroundSize = 'cover';
@@ -568,7 +568,7 @@ export const xiaoUser = () => {
         xiao.style.background = '#dd1440';
         xiao.style.transition = '0.5s linear';
         setTimeout(() => {
-            xiao.style.background = "url('/icon/Background5.png')";
+            xiao.style.background = "linear-gradient(90deg, rgb(90, 80, 37),rgb(194, 162, 56), rgb(228, 193, 79))";
             xiao.style.backgroundPosition = 'center';
             xiao.style.backgroundRepeat = 'no-repeat';
             xiao.style.backgroundSize = 'cover';
@@ -592,7 +592,7 @@ export const yelanUser = () => {
         yelan.style.background = '#dd1440';
         yelan.style.transition = '0.5s linear';
         setTimeout(() => {
-            yelan.style.background = "url('/icon/Background5.png')";
+            yelan.style.background = "linear-gradient(90deg, rgb(90, 80, 37),rgb(194, 162, 56), rgb(228, 193, 79))";
             yelan.style.backgroundPosition = 'center';
             yelan.style.backgroundRepeat = 'no-repeat';
             yelan.style.backgroundSize = 'cover';
@@ -616,7 +616,7 @@ export const shenheUser = () => {
         shenhe.style.background = '#dd1440';
         shenhe.style.transition = '0.5s linear';
         setTimeout(() => {
-            shenhe.style.background = "url('/icon/Background5.png')";
+            shenhe.style.background = "linear-gradient(90deg, rgb(90, 80, 37),rgb(194, 162, 56), rgb(228, 193, 79))";
             shenhe.style.backgroundPosition = 'center';
             shenhe.style.backgroundRepeat = 'no-repeat';
             shenhe.style.backgroundSize = 'cover';
@@ -640,7 +640,7 @@ export const ganyuUser = () => {
         ganyu.style.background = '#dd1440';
         ganyu.style.transition = '0.5s linear';
         setTimeout(() => {
-            ganyu.style.background = "url('/icon/Background5.png')";
+            ganyu.style.background = "linear-gradient(90deg, rgb(90, 80, 37),rgb(194, 162, 56), rgb(228, 193, 79))";
             ganyu.style.backgroundPosition = 'center';
             ganyu.style.backgroundRepeat = 'no-repeat';
             ganyu.style.backgroundSize = 'cover';
@@ -664,7 +664,7 @@ export const qiqiUser = () => {
         qiqi.style.background = '#dd1440';
         qiqi.style.transition = '0.5s linear';
         setTimeout(() => {
-            qiqi.style.background = "url('/icon/Background5.png')";
+            qiqi.style.background = "linear-gradient(90deg, rgb(90, 80, 37),rgb(194, 162, 56), rgb(228, 193, 79))";
             qiqi.style.backgroundPosition = 'center';
             qiqi.style.backgroundRepeat = 'no-repeat';
             qiqi.style.backgroundSize = 'cover';
@@ -688,7 +688,7 @@ export const baizhuUser = () => {
         baizhu.style.background = '#dd1440';
         baizhu.style.transition = '0.5s linear';
         setTimeout(() => {
-            baizhu.style.background = "url('/icon/Background5.png')";
+            baizhu.style.background = "linear-gradient(90deg, rgb(90, 80, 37),rgb(194, 162, 56), rgb(228, 193, 79))";
             baizhu.style.backgroundPosition = 'center';
             baizhu.style.backgroundRepeat = 'no-repeat';
             baizhu.style.backgroundSize = 'cover';
@@ -712,7 +712,7 @@ export const keqingUser = () => {
         keqing.style.background = '#dd1440';
         keqing.style.transition = '0.5s linear';
         setTimeout(() => {
-            keqing.style.background = "url('/icon/Background5.png')";
+            keqing.style.background = "linear-gradient(90deg, rgb(90, 80, 37),rgb(194, 162, 56), rgb(228, 193, 79))";
             keqing.style.backgroundPosition = 'center';
             keqing.style.backgroundRepeat = 'no-repeat';
             keqing.style.backgroundSize = 'cover';
@@ -736,7 +736,7 @@ export const yanfeiUser = () => {
         yanfei.style.background = '#dd1440';
         yanfei.style.transition = '0.5s linear';
         setTimeout(() => {
-            yanfei.style.background = "url('/icon/Background4.png')";
+            yanfei.style.background = "linear-gradient(90deg, rgb(66, 35, 83),rgb(135, 98, 165), rgb(162, 134, 228))";
             yanfei.style.backgroundPosition = 'center';
             yanfei.style.backgroundRepeat = 'no-repeat';
             yanfei.style.backgroundSize = 'cover';
@@ -760,7 +760,7 @@ export const yunjinUser = () => {
         yunjin.style.background = '#dd1440';
         yunjin.style.transition = '0.5s linear';
         setTimeout(() => {
-            yunjin.style.background = "url('/icon/Background4.png')";
+            yunjin.style.background = "linear-gradient(90deg, rgb(66, 35, 83),rgb(135, 98, 165), rgb(162, 134, 228))";
             yunjin.style.backgroundPosition = 'center';
             yunjin.style.backgroundRepeat = 'no-repeat';
             yunjin.style.backgroundSize = 'cover';
@@ -784,7 +784,7 @@ export const yaoyaoUser = () => {
         yaoyao.style.background = '#dd1440';
         yaoyao.style.transition = '0.5s linear';
         setTimeout(() => {
-            yaoyao.style.background = "url('/icon/Background4.png')";
+            yaoyao.style.background = "linear-gradient(90deg, rgb(66, 35, 83),rgb(135, 98, 165), rgb(162, 134, 228))";
             yaoyao.style.backgroundPosition = 'center';
             yaoyao.style.backgroundRepeat = 'no-repeat';
             yaoyao.style.backgroundSize = 'cover';
@@ -808,7 +808,7 @@ export const chongyunUser = () => {
         chongyun.style.background = '#dd1440';
         chongyun.style.transition = '0.5s linear';
         setTimeout(() => {
-            chongyun.style.background = "url('/icon/Background4.png')";
+            chongyun.style.background = "linear-gradient(90deg, rgb(66, 35, 83),rgb(135, 98, 165), rgb(162, 134, 228))";
             chongyun.style.backgroundPosition = 'center';
             chongyun.style.backgroundRepeat = 'no-repeat';
             chongyun.style.backgroundSize = 'cover';
@@ -832,7 +832,7 @@ export const beidouUser = () => {
         beidou.style.background = '#dd1440';
         beidou.style.transition = '0.5s linear';
         setTimeout(() => {
-            beidou.style.background = "url('/icon/Background4.png')";
+            beidou.style.background = "linear-gradient(90deg, rgb(66, 35, 83),rgb(135, 98, 165), rgb(162, 134, 228))";
             beidou.style.backgroundPosition = 'center';
             beidou.style.backgroundRepeat = 'no-repeat';
             beidou.style.backgroundSize = 'cover';
@@ -856,7 +856,7 @@ export const xianglingUser = () => {
         xiangling.style.background = '#dd1440';
         xiangling.style.transition = '0.5s linear';
         setTimeout(() => {
-            xiangling.style.background = "url('/icon/Background4.png')";
+            xiangling.style.background = "linear-gradient(90deg, rgb(66, 35, 83),rgb(135, 98, 165), rgb(162, 134, 228))";
             xiangling.style.backgroundPosition = 'center';
             xiangling.style.backgroundRepeat = 'no-repeat';
             xiangling.style.backgroundSize = 'cover';
@@ -880,7 +880,7 @@ export const xingqiuUser = () => {
         xingqiu.style.background = '#dd1440';
         xingqiu.style.transition = '0.5s linear';
         setTimeout(() => {
-            xingqiu.style.background = "url('/icon/Background4.png')";
+            xingqiu.style.background = "linear-gradient(90deg, rgb(66, 35, 83),rgb(135, 98, 165), rgb(162, 134, 228))";
             xingqiu.style.backgroundPosition = 'center';
             xingqiu.style.backgroundRepeat = 'no-repeat';
             xingqiu.style.backgroundSize = 'cover';
@@ -904,7 +904,7 @@ export const xinyanUser = () => {
         xinyan.style.background = '#dd1440';
         xinyan.style.transition = '0.5s linear';
         setTimeout(() => {
-            xinyan.style.background = "url('/icon/Background4.png')";
+            xinyan.style.background = "linear-gradient(90deg, rgb(66, 35, 83),rgb(135, 98, 165), rgb(162, 134, 228))";
             xinyan.style.backgroundPosition = 'center';
             xinyan.style.backgroundRepeat = 'no-repeat';
             xinyan.style.backgroundSize = 'cover';
@@ -928,7 +928,7 @@ export const ningguangUser = () => {
         ningguang.style.background = '#dd1440';
         ningguang.style.transition = '0.5s linear';
         setTimeout(() => {
-            ningguang.style.background = "url('/icon/Background4.png')";
+            ningguang.style.background = "linear-gradient(90deg, rgb(66, 35, 83),rgb(135, 98, 165), rgb(162, 134, 228))";
             ningguang.style.backgroundPosition = 'center';
             ningguang.style.backgroundRepeat = 'no-repeat';
             ningguang.style.backgroundSize = 'cover';
@@ -970,7 +970,7 @@ export const raidenUser = () => {
         raiden.style.background = '#dd1440';
         raiden.style.transition = '0.5s linear';
         setTimeout(() => {
-            raiden.style.background = "url('/icon/Background5.png')";
+            raiden.style.background = "linear-gradient(90deg, rgb(90, 80, 37),rgb(194, 162, 56), rgb(228, 193, 79))";
             raiden.style.backgroundPosition = 'center';
             raiden.style.backgroundRepeat = 'no-repeat';
             raiden.style.backgroundSize = 'cover';
@@ -994,7 +994,7 @@ export const kazuhaUser = () => {
         kazuha.style.background = '#dd1440';
         kazuha.style.transition = '0.5s linear';
         setTimeout(() => {
-            kazuha.style.background = "url('/icon/Background5.png')";
+            kazuha.style.background = "linear-gradient(90deg, rgb(90, 80, 37),rgb(194, 162, 56), rgb(228, 193, 79))";
             kazuha.style.backgroundPosition = 'center';
             kazuha.style.backgroundRepeat = 'no-repeat';
             kazuha.style.backgroundSize = 'cover';
@@ -1018,7 +1018,7 @@ export const yaemikoUser = () => {
         yaemiko.style.background = '#dd1440';
         yaemiko.style.transition = '0.5s linear';
         setTimeout(() => {
-            yaemiko.style.background = "url('/icon/Background5.png')";
+            yaemiko.style.background = "linear-gradient(90deg, rgb(90, 80, 37),rgb(194, 162, 56), rgb(228, 193, 79))";
             yaemiko.style.backgroundPosition = 'center';
             yaemiko.style.backgroundRepeat = 'no-repeat';
             yaemiko.style.backgroundSize = 'cover';
@@ -1042,7 +1042,7 @@ export const yoimiyaUser = () => {
         yoimiya.style.background = '#dd1440';
         yoimiya.style.transition = '0.5s linear';
         setTimeout(() => {
-            yoimiya.style.background = "url('/icon/Background5.png')";
+            yoimiya.style.background = "linear-gradient(90deg, rgb(90, 80, 37),rgb(194, 162, 56), rgb(228, 193, 79))";
             yoimiya.style.backgroundPosition = 'center';
             yoimiya.style.backgroundRepeat = 'no-repeat';
             yoimiya.style.backgroundSize = 'cover';
@@ -1066,7 +1066,7 @@ export const ayakaUser = () => {
         ayaka.style.background = '#dd1440';
         ayaka.style.transition = '0.5s linear';
         setTimeout(() => {
-            ayaka.style.background = "url('/icon/Background5.png')";
+            ayaka.style.background = "linear-gradient(90deg, rgb(90, 80, 37),rgb(194, 162, 56), rgb(228, 193, 79))";
             ayaka.style.backgroundPosition = 'center';
             ayaka.style.backgroundRepeat = 'no-repeat';
             ayaka.style.backgroundSize = 'cover';
@@ -1090,7 +1090,7 @@ export const aratakiUser = () => {
         arataki.style.background = '#dd1440';
         arataki.style.transition = '0.5s linear';
         setTimeout(() => {
-            arataki.style.background = "url('/icon/Background5.png')";
+            arataki.style.background = "linear-gradient(90deg, rgb(90, 80, 37),rgb(194, 162, 56), rgb(228, 193, 79))";
             arataki.style.backgroundPosition = 'center';
             arataki.style.backgroundRepeat = 'no-repeat';
             arataki.style.backgroundSize = 'cover';
@@ -1114,7 +1114,7 @@ export const kokomiUser = () => {
         kokomi.style.background = '#dd1440';
         kokomi.style.transition = '0.5s linear';
         setTimeout(() => {
-            kokomi.style.background = "url('/icon/Background5.png')";
+            kokomi.style.background = "linear-gradient(90deg, rgb(90, 80, 37),rgb(194, 162, 56), rgb(228, 193, 79))";
             kokomi.style.backgroundPosition = 'center';
             kokomi.style.backgroundRepeat = 'no-repeat';
             kokomi.style.backgroundSize = 'cover';
@@ -1138,7 +1138,7 @@ export const ayatoUser = () => {
         ayato.style.background = '#dd1440';
         ayato.style.transition = '0.5s linear';
         setTimeout(() => {
-            ayato.style.background = "url('/icon/Background5.png')";
+            ayato.style.background = "linear-gradient(90deg, rgb(90, 80, 37),rgb(194, 162, 56), rgb(228, 193, 79))";
             ayato.style.backgroundPosition = 'center';
             ayato.style.backgroundRepeat = 'no-repeat';
             ayato.style.backgroundSize = 'cover';
@@ -1162,7 +1162,7 @@ export const kiraraUser = () => {
         kirara.style.background = '#dd1440';
         kirara.style.transition = '0.5s linear';
         setTimeout(() => {
-            kirara.style.background = "url('/icon/Background4.png')";
+            kirara.style.background = "linear-gradient(90deg, rgb(66, 35, 83),rgb(135, 98, 165), rgb(162, 134, 228))";
             kirara.style.backgroundPosition = 'center';
             kirara.style.backgroundRepeat = 'no-repeat';
             kirara.style.backgroundSize = 'cover';
@@ -1186,7 +1186,7 @@ export const heizouUser = () => {
         heizou.style.background = '#dd1440';
         heizou.style.transition = '0.5s linear';
         setTimeout(() => {
-            heizou.style.background = "url('/icon/Background4.png')";
+            heizou.style.background = "linear-gradient(90deg, rgb(66, 35, 83),rgb(135, 98, 165), rgb(162, 134, 228))";
             heizou.style.backgroundPosition = 'center';
             heizou.style.backgroundRepeat = 'no-repeat';
             heizou.style.backgroundSize = 'cover';
@@ -1210,7 +1210,7 @@ export const kukiUser = () => {
         kuki.style.background = '#dd1440';
         kuki.style.transition = '0.5s linear';
         setTimeout(() => {
-            kuki.style.background = "url('/icon/Background4.png')";
+            kuki.style.background = "linear-gradient(90deg, rgb(66, 35, 83),rgb(135, 98, 165), rgb(162, 134, 228))";
             kuki.style.backgroundPosition = 'center';
             kuki.style.backgroundRepeat = 'no-repeat';
             kuki.style.backgroundSize = 'cover';
@@ -1234,7 +1234,7 @@ export const gorouUser = () => {
         gorou.style.background = '#dd1440';
         gorou.style.transition = '0.5s linear';
         setTimeout(() => {
-            gorou.style.background = "url('/icon/Background4.png')";
+            gorou.style.background = "linear-gradient(90deg, rgb(66, 35, 83),rgb(135, 98, 165), rgb(162, 134, 228))";
             gorou.style.backgroundPosition = 'center';
             gorou.style.backgroundRepeat = 'no-repeat';
             gorou.style.backgroundSize = 'cover';
@@ -1258,7 +1258,7 @@ export const sayuUser = () => {
         sayu.style.background = '#dd1440';
         sayu.style.transition = '0.5s linear';
         setTimeout(() => {
-            sayu.style.background = "url('/icon/Background4.png')";
+            sayu.style.background = "linear-gradient(90deg, rgb(66, 35, 83),rgb(135, 98, 165), rgb(162, 134, 228))";
             sayu.style.backgroundPosition = 'center';
             sayu.style.backgroundRepeat = 'no-repeat';
             sayu.style.backgroundSize = 'cover';
@@ -1282,7 +1282,7 @@ export const saraUser = () => {
         sara.style.background = '#dd1440';
         sara.style.transition = '0.5s linear';
         setTimeout(() => {
-            sara.style.background = "url('/icon/Background4.png')";
+            sara.style.background = "linear-gradient(90deg, rgb(66, 35, 83),rgb(135, 98, 165), rgb(162, 134, 228))";
             sara.style.backgroundPosition = 'center';
             sara.style.backgroundRepeat = 'no-repeat';
             sara.style.backgroundSize = 'cover';
@@ -1306,7 +1306,7 @@ export const thomaUser = () => {
         thoma.style.background = '#dd1440';
         thoma.style.transition = '0.5s linear';
         setTimeout(() => {
-            thoma.style.background = "url('/icon/Background4.png')";
+            thoma.style.background = "linear-gradient(90deg, rgb(66, 35, 83),rgb(135, 98, 165), rgb(162, 134, 228))";
             thoma.style.backgroundPosition = 'center';
             thoma.style.backgroundRepeat = 'no-repeat';
             thoma.style.backgroundSize = 'cover';
@@ -1346,7 +1346,7 @@ export const dehyaUser = () => {
         dehya.style.background = '#dd1440';
         dehya.style.transition = '0.5s linear';
         setTimeout(() => {
-            dehya.style.background = "url('/icon/Background5.png')";
+            dehya.style.background = "linear-gradient(90deg, rgb(90, 80, 37),rgb(194, 162, 56), rgb(228, 193, 79))";
             dehya.style.backgroundPosition = 'center';
             dehya.style.backgroundRepeat = 'no-repeat';
             dehya.style.backgroundSize = 'cover';
@@ -1370,7 +1370,7 @@ export const cynoUser = () => {
         cyno.style.background = '#dd1440';
         cyno.style.transition = '0.5s linear';
         setTimeout(() => {
-            cyno.style.background = "url('/icon/Background5.png')";
+            cyno.style.background = "linear-gradient(90deg, rgb(90, 80, 37),rgb(194, 162, 56), rgb(228, 193, 79))";
             cyno.style.backgroundPosition = 'center';
             cyno.style.backgroundRepeat = 'no-repeat';
             cyno.style.backgroundSize = 'cover';
@@ -1394,7 +1394,7 @@ export const nahidaUser = () => {
         nahida.style.background = '#dd1440';
         nahida.style.transition = '0.5s linear';
         setTimeout(() => {
-            nahida.style.background = "url('/icon/Background5.png')";
+            nahida.style.background = "linear-gradient(90deg, rgb(90, 80, 37),rgb(194, 162, 56), rgb(228, 193, 79))";
             nahida.style.backgroundPosition = 'center';
             nahida.style.backgroundRepeat = 'no-repeat';
             nahida.style.backgroundSize = 'cover';
@@ -1418,7 +1418,7 @@ export const wandererUser = () => {
         wanderer.style.background = '#dd1440';
         wanderer.style.transition = '0.5s linear';
         setTimeout(() => {
-            wanderer.style.background = "url('/icon/Background5.png')";
+            wanderer.style.background = "linear-gradient(90deg, rgb(90, 80, 37),rgb(194, 162, 56), rgb(228, 193, 79))";
             wanderer.style.backgroundPosition = 'center';
             wanderer.style.backgroundRepeat = 'no-repeat';
             wanderer.style.backgroundSize = 'cover';
@@ -1442,7 +1442,7 @@ export const alhaithamUser = () => {
         alhaitham.style.background = '#dd1440';
         alhaitham.style.transition = '0.5s linear';
         setTimeout(() => {
-            alhaitham.style.background = "url('/icon/Background5.png')";
+            alhaitham.style.background = "linear-gradient(90deg, rgb(90, 80, 37),rgb(194, 162, 56), rgb(228, 193, 79))";
             alhaitham.style.backgroundPosition = 'center';
             alhaitham.style.backgroundRepeat = 'no-repeat';
             alhaitham.style.backgroundSize = 'cover';
@@ -1466,7 +1466,7 @@ export const nilouUser = () => {
         nilou.style.background = '#dd1440';
         nilou.style.transition = '0.5s linear';
         setTimeout(() => {
-            nilou.style.background = "url('/icon/Background5.png')";
+            nilou.style.background = "linear-gradient(90deg, rgb(90, 80, 37),rgb(194, 162, 56), rgb(228, 193, 79))";
             nilou.style.backgroundPosition = 'center';
             nilou.style.backgroundRepeat = 'no-repeat';
             nilou.style.backgroundSize = 'cover';
@@ -1490,7 +1490,7 @@ export const tighnariUser = () => {
         tighnari.style.background = '#dd1440';
         tighnari.style.transition = '0.5s linear';
         setTimeout(() => {
-            tighnari.style.background = "url('/icon/Background5.png')";
+            tighnari.style.background = "linear-gradient(90deg, rgb(90, 80, 37),rgb(194, 162, 56), rgb(228, 193, 79))";
             tighnari.style.backgroundPosition = 'center';
             tighnari.style.backgroundRepeat = 'no-repeat';
             tighnari.style.backgroundSize = 'cover';
@@ -1514,7 +1514,7 @@ export const colleiUser = () => {
         collei.style.background = '#dd1440';
         collei.style.transition = '0.5s linear';
         setTimeout(() => {
-            collei.style.background = "url('/icon/Background4.png')";
+            collei.style.background = "linear-gradient(90deg, rgb(66, 35, 83),rgb(135, 98, 165), rgb(162, 134, 228))";
             collei.style.backgroundPosition = 'center';
             collei.style.backgroundRepeat = 'no-repeat';
             collei.style.backgroundSize = 'cover';
@@ -1538,7 +1538,7 @@ export const doriUser = () => {
         dori.style.background = '#dd1440';
         dori.style.transition = '0.5s linear';
         setTimeout(() => {
-            dori.style.background = "url('/icon/Background4.png')";
+            dori.style.background = "linear-gradient(90deg, rgb(66, 35, 83),rgb(135, 98, 165), rgb(162, 134, 228))";
             dori.style.backgroundPosition = 'center';
             dori.style.backgroundRepeat = 'no-repeat';
             dori.style.backgroundSize = 'cover';
@@ -1562,7 +1562,7 @@ export const kavehUser = () => {
         kaveh.style.background = '#dd1440';
         kaveh.style.transition = '0.5s linear';
         setTimeout(() => {
-            kaveh.style.background = "url('/icon/Background4.png')";
+            kaveh.style.background = "linear-gradient(90deg, rgb(66, 35, 83),rgb(135, 98, 165), rgb(162, 134, 228))";
             kaveh.style.backgroundPosition = 'center';
             kaveh.style.backgroundRepeat = 'no-repeat';
             kaveh.style.backgroundSize = 'cover';
@@ -1586,7 +1586,7 @@ export const laylaUser = () => {
         layla.style.background = '#dd1440';
         layla.style.transition = '0.5s linear';
         setTimeout(() => {
-            layla.style.background = "url('/icon/Background4.png')";
+            layla.style.background = "linear-gradient(90deg, rgb(66, 35, 83),rgb(135, 98, 165), rgb(162, 134, 228))";
             layla.style.backgroundPosition = 'center';
             layla.style.backgroundRepeat = 'no-repeat';
             layla.style.backgroundSize = 'cover';
@@ -1610,7 +1610,7 @@ export const faruzanUser = () => {
         faruzan.style.background = '#dd1440';
         faruzan.style.transition = '0.5s linear';
         setTimeout(() => {
-            faruzan.style.background = "url('/icon/Background4.png')";
+            faruzan.style.background = "linear-gradient(90deg, rgb(66, 35, 83),rgb(135, 98, 165), rgb(162, 134, 228))";
             faruzan.style.backgroundPosition = 'center';
             faruzan.style.backgroundRepeat = 'no-repeat';
             faruzan.style.backgroundSize = 'cover';
@@ -1634,7 +1634,7 @@ export const candaceUser = () => {
         candace.style.background = '#dd1440';
         candace.style.transition = '0.5s linear';
         setTimeout(() => {
-            candace.style.background = "url('/icon/Background4.png')";
+            candace.style.background = "linear-gradient(90deg, rgb(66, 35, 83),rgb(135, 98, 165), rgb(162, 134, 228))";
             candace.style.backgroundPosition = 'center';
             candace.style.backgroundRepeat = 'no-repeat';
             candace.style.backgroundSize = 'cover';
@@ -1670,7 +1670,7 @@ export const wriothesleyUser = () => {
         wriothesley.style.background = '#dd1440';
         wriothesley.style.transition = '0.5s linear';
         setTimeout(() => {
-            wriothesley.style.background = "url('/icon/Background5.png')";
+            wriothesley.style.background = "linear-gradient(90deg, rgb(90, 80, 37),rgb(194, 162, 56), rgb(228, 193, 79))";
             wriothesley.style.backgroundPosition = 'center';
             wriothesley.style.backgroundRepeat = 'no-repeat';
             wriothesley.style.backgroundSize = 'cover';
@@ -1694,7 +1694,7 @@ export const naviaUser = () => {
         navia.style.background = '#dd1440';
         navia.style.transition = '0.5s linear';
         setTimeout(() => {
-            navia.style.background = "url('/icon/Background5.png')";
+            navia.style.background = "linear-gradient(90deg, rgb(90, 80, 37),rgb(194, 162, 56), rgb(228, 193, 79))";
             navia.style.backgroundPosition = 'center';
             navia.style.backgroundRepeat = 'no-repeat';
             navia.style.backgroundSize = 'cover';
@@ -1718,7 +1718,7 @@ export const furinaUser = () => {
         furina.style.background = '#dd1440';
         furina.style.transition = '0.5s linear';
         setTimeout(() => {
-            furina.style.background = "url('/icon/Background5.png')";
+            furina.style.background = "linear-gradient(90deg, rgb(90, 80, 37),rgb(194, 162, 56), rgb(228, 193, 79))";
             furina.style.backgroundPosition = 'center';
             furina.style.backgroundRepeat = 'no-repeat';
             furina.style.backgroundSize = 'cover';
@@ -1742,7 +1742,7 @@ export const neuvilletteUser = () => {
         neuvillette.style.background = '#dd1440';
         neuvillette.style.transition = '0.5s linear';
         setTimeout(() => {
-            neuvillette.style.background = "url('/icon/Background5.png')";
+            neuvillette.style.background = "linear-gradient(90deg, rgb(90, 80, 37),rgb(194, 162, 56), rgb(228, 193, 79))";
             neuvillette.style.backgroundPosition = 'center';
             neuvillette.style.backgroundRepeat = 'no-repeat';
             neuvillette.style.backgroundSize = 'cover';
@@ -1766,7 +1766,7 @@ export const lyneyUser = () => {
         lyney.style.background = '#dd1440';
         lyney.style.transition = '0.5s linear';
         setTimeout(() => {
-            lyney.style.background = "url('/icon/Background5.png')";
+            lyney.style.background = "linear-gradient(90deg, rgb(90, 80, 37),rgb(194, 162, 56), rgb(228, 193, 79))";
             lyney.style.backgroundPosition = 'center';
             lyney.style.backgroundRepeat = 'no-repeat';
             lyney.style.backgroundSize = 'cover';
@@ -1790,7 +1790,7 @@ export const charlotteUser = () => {
         charlotte.style.background = '#dd1440';
         charlotte.style.transition = '0.5s linear';
         setTimeout(() => {
-            charlotte.style.background = "url('/icon/Background4.png')";
+            charlotte.style.background = "linear-gradient(90deg, rgb(66, 35, 83),rgb(135, 98, 165), rgb(162, 134, 228))";
             charlotte.style.backgroundPosition = 'center';
             charlotte.style.backgroundRepeat = 'no-repeat';
             charlotte.style.backgroundSize = 'cover';
@@ -1814,7 +1814,7 @@ export const freminetUser = () => {
         freminet.style.background = '#dd1440';
         freminet.style.transition = '0.5s linear';
         setTimeout(() => {
-            freminet.style.background = "url('/icon/Background4.png')";
+            freminet.style.background = "linear-gradient(90deg, rgb(66, 35, 83),rgb(135, 98, 165), rgb(162, 134, 228))";
             freminet.style.backgroundPosition = 'center';
             freminet.style.backgroundRepeat = 'no-repeat';
             freminet.style.backgroundSize = 'cover';
@@ -1838,7 +1838,7 @@ export const lynetteUser = () => {
         lynette.style.background = '#dd1440';
         lynette.style.transition = '0.5s linear';
         setTimeout(() => {
-            lynette.style.background = "url('/icon/Background4.png')";
+            lynette.style.background = "linear-gradient(90deg, rgb(66, 35, 83),rgb(135, 98, 165), rgb(162, 134, 228))";
             lynette.style.backgroundPosition = 'center';
             lynette.style.backgroundRepeat = 'no-repeat';
             lynette.style.backgroundSize = 'cover';
@@ -1862,7 +1862,7 @@ export const chevreuseUser = () => {
         chevreuse.style.background = '#dd1440';
         chevreuse.style.transition = '0.5s linear';
         setTimeout(() => {
-            chevreuse.style.background = "url('/icon/Background4.png')";
+            chevreuse.style.background = "linear-gradient(90deg, rgb(66, 35, 83),rgb(135, 98, 165), rgb(162, 134, 228))";
             chevreuse.style.backgroundPosition = 'center';
             chevreuse.style.backgroundRepeat = 'no-repeat';
             chevreuse.style.backgroundSize = 'cover';
@@ -1890,7 +1890,7 @@ export const tartagliaUser = () => {
         tartaglia.style.background = '#dd1440';
         tartaglia.style.transition = '0.5s linear';
         setTimeout(() => {
-            tartaglia.style.background = "url('/icon/Background5.png')";
+            tartaglia.style.background = "linear-gradient(90deg, rgb(90, 80, 37),rgb(194, 162, 56), rgb(228, 193, 79))";
             tartaglia.style.backgroundPosition = 'center';
             tartaglia.style.backgroundRepeat = 'no-repeat';
             tartaglia.style.backgroundSize = 'cover';
@@ -1929,7 +1929,7 @@ export const dilucSkinUser = () => {
         dilucSkin.style.background = '#dd1440';
         dilucSkin.style.transition = '0.5s linear';
         setTimeout(() => {
-            dilucSkin.style.background = "url('/icon/Background5.png')";
+            dilucSkin.style.background = "linear-gradient(90deg, rgb(90, 80, 37),rgb(194, 162, 56), rgb(228, 193, 79))";
             dilucSkin.style.backgroundPosition = 'center';
             dilucSkin.style.backgroundRepeat = 'no-repeat';
             dilucSkin.style.backgroundSize = 'cover';
@@ -1954,7 +1954,7 @@ export const jeanSkinUser = () => {
         jeanSkin.style.background = '#dd1440';
         jeanSkin.style.transition = '0.5s linear';
         setTimeout(() => {
-            jeanSkin.style.background = "url('/icon/Background5.png')";
+            jeanSkin.style.background = "linear-gradient(90deg, rgb(90, 80, 37),rgb(194, 162, 56), rgb(228, 193, 79))";
             jeanSkin.style.backgroundPosition = 'center';
             jeanSkin.style.backgroundRepeat = 'no-repeat';
             jeanSkin.style.backgroundSize = 'cover';
@@ -1979,7 +1979,7 @@ export const kleeSkinUser = () => {
         kleeSkin.style.background = '#dd1440';
         kleeSkin.style.transition = '0.5s linear';
         setTimeout(() => {
-            kleeSkin.style.background = "url('/icon/Background5.png')";
+            kleeSkin.style.background = "linear-gradient(90deg, rgb(90, 80, 37),rgb(194, 162, 56), rgb(228, 193, 79))";
             kleeSkin.style.backgroundPosition = 'center';
             kleeSkin.style.backgroundRepeat = 'no-repeat';
             kleeSkin.style.backgroundSize = 'cover';
@@ -2004,7 +2004,7 @@ export const ayakaSkinUser = () => {
         ayakaSkin.style.background = '#dd1440';
         ayakaSkin.style.transition = '0.5s linear';
         setTimeout(() => {
-            ayakaSkin.style.background = "url('/icon/Background5.png')";
+            ayakaSkin.style.background = "linear-gradient(90deg, rgb(90, 80, 37),rgb(194, 162, 56), rgb(228, 193, 79))";
             ayakaSkin.style.backgroundPosition = 'center';
             ayakaSkin.style.backgroundRepeat = 'no-repeat';
             ayakaSkin.style.backgroundSize = 'cover';
@@ -2029,7 +2029,7 @@ export const barbaraSkinUser = () => {
         barbaraSkin.style.background = '#dd1440';
         barbaraSkin.style.transition = '0.5s linear';
         setTimeout(() => {
-            barbaraSkin.style.background = "url('/icon/Background5.png')";
+            barbaraSkin.style.background = "linear-gradient(90deg, rgb(66, 35, 83),rgb(135, 98, 165), rgb(162, 134, 228))";
             barbaraSkin.style.backgroundPosition = 'center';
             barbaraSkin.style.backgroundRepeat = 'no-repeat';
             barbaraSkin.style.backgroundSize = 'cover';
@@ -2054,7 +2054,7 @@ export const fischlSkinUser = () => {
         fischlSkin.style.background = '#dd1440';
         fischlSkin.style.transition = '0.5s linear';
         setTimeout(() => {
-            fischlSkin.style.background = "url('/icon/Background5.png')";
+            fischlSkin.style.background = "linear-gradient(90deg, rgb(66, 35, 83),rgb(135, 98, 165), rgb(162, 134, 228))";
             fischlSkin.style.backgroundPosition = 'center';
             fischlSkin.style.backgroundRepeat = 'no-repeat';
             fischlSkin.style.backgroundSize = 'cover';
@@ -2079,7 +2079,7 @@ export const ningguangSkinUser = () => {
         ningguangSkin.style.background = '#dd1440';
         ningguangSkin.style.transition = '0.5s linear';
         setTimeout(() => {
-            ningguangSkin.style.background = "url('/icon/Background5.png')";
+            ningguangSkin.style.background = "linear-gradient(90deg, rgb(66, 35, 83),rgb(135, 98, 165), rgb(162, 134, 228))";
             ningguangSkin.style.backgroundPosition = 'center';
             ningguangSkin.style.backgroundRepeat = 'no-repeat';
             ningguangSkin.style.backgroundSize = 'cover';
@@ -2104,7 +2104,7 @@ export const keqingSkinUser = () => {
         keqingSkin.style.background = '#dd1440';
         keqingSkin.style.transition = '0.5s linear';
         setTimeout(() => {
-            keqingSkin.style.background = "url('/icon/Background5.png')";
+            keqingSkin.style.background = "linear-gradient(90deg, rgb(90, 80, 37),rgb(194, 162, 56), rgb(228, 193, 79))";
             keqingSkin.style.backgroundPosition = 'center';
             keqingSkin.style.backgroundRepeat = 'no-repeat';
             keqingSkin.style.backgroundSize = 'cover';
@@ -2129,7 +2129,7 @@ export const lisaSkinUser = () => {
         lisaSkin.style.background = '#dd1440';
         lisaSkin.style.transition = '0.5s linear';
         setTimeout(() => {
-            lisaSkin.style.background = "url('/icon/Background5.png')";
+            lisaSkin.style.background = "linear-gradient(90deg, rgb(66, 35, 83),rgb(135, 98, 165), rgb(162, 134, 228))";
             lisaSkin.style.backgroundPosition = 'center';
             lisaSkin.style.backgroundRepeat = 'no-repeat';
             lisaSkin.style.backgroundSize = 'cover';
@@ -2154,7 +2154,7 @@ export const kaeyaSkinUser = () => {
         kaeyaSkin.style.background = '#dd1440';
         kaeyaSkin.style.transition = '0.5s linear';
         setTimeout(() => {
-            kaeyaSkin.style.background = "url('/icon/Background5.png')";
+            kaeyaSkin.style.background = "linear-gradient(90deg, rgb(66, 35, 83),rgb(135, 98, 165), rgb(162, 134, 228))";
             kaeyaSkin.style.backgroundPosition = 'center';
             kaeyaSkin.style.backgroundRepeat = 'no-repeat';
             kaeyaSkin.style.backgroundSize = 'cover';
