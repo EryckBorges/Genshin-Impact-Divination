@@ -531,7 +531,7 @@ body {
     justify-content: center;
     align-items: center;
     border: 2px solid #dd1440;
-    background:url('/icon/Background5.png');
+    background:linear-gradient(90deg, rgb(90, 80, 37),rgb(194, 162, 56), rgb(228, 193, 79));
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -547,7 +547,7 @@ body {
     justify-content: center;
     align-items: center;
     border: 2px solid #dd1440;
-    background:url('/icon/Background4.png');
+    background:linear-gradient(90deg, rgb(66, 35, 83),rgb(135, 98, 165), rgb(162, 134, 228));
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -563,7 +563,7 @@ body {
     justify-content: center;
     align-items: center;
     border: 2px solid #dd1440;
-    background:linear-gradient(45deg, #8b0824, #d60d38, #ff0037);
+    background:linear-gradient(90deg, #8a1830, #da153f, #e7234d);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
