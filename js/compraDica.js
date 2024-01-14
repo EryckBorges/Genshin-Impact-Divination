@@ -29,8 +29,7 @@ export const compraDica = () => {
         dicaBonus.style.background = "#dd1440";
         dicaBonus.style.transition = "0.4s linear";
     }else if(dicas == 0 && localStorage.getItem('Money') < 200) {
-        dicaBonus.style.fontSize = "8pt";
-        dicaBonus.innerHTML = "Mora Insuficiente";
+        dicaBonus.innerHTML = "Indisponivel";
         dicaBonus.style.background = "#dd1440";
         dicaBonus.style.transition = "0.4s linear";
             setTimeout(() => {
