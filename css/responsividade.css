@@ -145,7 +145,7 @@
     
     #cont #paimon img {
         width:100%;
-        height:70%;
+        height:60%;
     }
     
     #cont #pergunta {
@@ -348,7 +348,7 @@
     
     
     #comprar #itens #comprarVidas .restVida p {
-        font-size:8pt;
+        font-size:10pt;
         font-weight: 600;
         color:white;
         width:90%;
@@ -359,7 +359,7 @@
     }
     
     #comprar #itens #comprarVidas .restVida button {
-        width:90%;
+        width:95%;
         overflow: hidden;
         height:12%;
         border-radius: 10px;
@@ -550,7 +550,7 @@
         justify-content: center;
         align-items: center;
         border: 2px solid #dd1440;
-        background:url('/icon/Background5.png');
+        background:linear-gradient(90deg, rgb(90, 80, 37),rgb(194, 162, 56), rgb(228, 193, 79));
         background-position: center;
         background-repeat: no-repeat;
         background-size: cover;
@@ -652,7 +652,7 @@
         justify-content: center;
         align-items: center;
         border: 2px solid #dd1440;
-        background:url('/icon/Background4.png');
+        background:linear-gradient(90deg, rgb(66, 35, 83),rgb(135, 98, 165), rgb(162, 134, 228));
         background-position: center;
         background-repeat: no-repeat;
         background-size: cover;
@@ -668,7 +668,7 @@
         justify-content: center;
         align-items: center;
         border: 2px solid #dd1440;
-        background:linear-gradient(45deg, #8b0824, #d60d38, #ff0037);
+        background:linear-gradient(90deg, #8a1830, #da153f, #e7234d);
         background-position: center;
         background-repeat: no-repeat;
         background-size: cover;
@@ -894,7 +894,7 @@
     }
     
     #cont {
-        background:red;
+
         width: 100%;
         height:40vh;
         background:linear-gradient(to top, black, rgba(0,0,0,0.8), rgba(0,0,0,0.0));
@@ -914,7 +914,7 @@
     }
     
     #cont #paimon img {
-        width:100%;
+        width:80%;
         height:100%;
     }
     
@@ -1087,7 +1087,7 @@
     
     #comprar #itens #comprarVidas {
         width:100%;
-        height:55vh;
+        height:65vh;
         margin-top:6vh;
         overflow:hidden;
         display:flex;
@@ -1108,8 +1108,8 @@
     }
     
     #comprar #itens #comprarVidas .restVida img {
-        width:65%;
-        height:45%;
+        width:70%;
+        height:50%;
     }
     
     .overCora {
@@ -1132,7 +1132,7 @@
     #comprar #itens #comprarVidas .restVida button {
         width:90%;
         overflow: hidden;
-        height:12%;
+        height:14%;
         border-radius: 10px;
         border: 2px solid #dd1440;
         color:white;
@@ -1201,17 +1201,17 @@
     #contUser #imgPerfil {
         margin-top:5vh;
         overflow: hidden;
-        width:50%;
-        height:30vh;
+        width:90%;
+        height:50vh;
         display: flex;
         justify-content: center;
         align-items: center;
     }
     
     #contUser #imgPerfil img {
-        min-width:38%;
+        min-width:28%;
         max-width: 40%;
-        min-height:80%;
+        min-height:90%;
         max-height:90%;
         border: 2px solid #dd1440;
         border-radius:10px;
@@ -1219,7 +1219,7 @@
     
     #contUser #editName {
         width:100%;
-        height:8vh;
+        height:10vh;
         margin-top:15px;
         display:flex;
         align-items: center;
@@ -1274,7 +1274,7 @@
     
     #selectImg .personagens {
         width:100%;
-        height:35vh;
+        height:45vh;
         margin-bottom:2vh;
         overflow: hidden;
         display:flex;
@@ -1292,7 +1292,7 @@
         justify-content: center;
         align-items: center;
         border: 2px solid #dd1440;
-        background:url('/icon/Background5.png');
+        background:linear-gradient(90deg, rgb(90, 80, 37),rgb(194, 162, 56), rgb(228, 193, 79));
         background-position: center;
         background-repeat: no-repeat;
         background-size: cover;
@@ -1304,7 +1304,7 @@
     }
     
     #selectImg .personagens .card img {
-        width:140%;
+        width:100%;
         height:100%;
     }
     
@@ -1374,8 +1374,8 @@
     }
     
     #selectImg #city img {
-        width:12vw;
-        height:16vh;
+        width:14vw;
+        height:20vh;
         margin-right:2vw;
     }
     
@@ -1394,7 +1394,7 @@
         justify-content: center;
         align-items: center;
         border: 2px solid #dd1440;
-        background:url('/icon/Background4.png');
+        background:linear-gradient(90deg, rgb(66, 35, 83),rgb(135, 98, 165), rgb(162, 134, 228));
         background-position: center;
         background-repeat: no-repeat;
         background-size: cover;
@@ -1410,7 +1410,7 @@
         justify-content: center;
         align-items: center;
         border: 2px solid #dd1440;
-        background:linear-gradient(45deg, #8b0824, #d60d38, #ff0037);
+        background:linear-gradient(90deg, #8a1830, #da153f, #e7234d);
         background-position: center;
         background-repeat: no-repeat;
         background-size: cover;
@@ -2033,7 +2033,7 @@
         justify-content: center;
         align-items: center;
         border: 2px solid #dd1440;
-        background:url('/icon/Background5.png');
+        background:linear-gradient(90deg, rgb(90, 80, 37),rgb(194, 162, 56), rgb(228, 193, 79));
         background-position: center;
         background-repeat: no-repeat;
         background-size: cover;
@@ -2135,7 +2135,7 @@
         justify-content: center;
         align-items: center;
         border: 2px solid #dd1440;
-        background:url('/icon/Background4.png');
+        background:linear-gradient(90deg, rgb(66, 35, 83),rgb(135, 98, 165), rgb(162, 134, 228));
         background-position: center;
         background-repeat: no-repeat;
         background-size: cover;
@@ -2151,7 +2151,7 @@
         justify-content: center;
         align-items: center;
         border: 2px solid #dd1440;
-        background:linear-gradient(45deg, #8b0824, #d60d38, #ff0037);
+        background:linear-gradient(90deg, #8a1830, #da153f, #e7234d);
         background-position: center;
         background-repeat: no-repeat;
         background-size: cover;
@@ -2590,7 +2590,7 @@
     }
     
     #comprar #itens #comprarVidas .restVida img {
-        width:100%;
+        width:70%;
         height:38%;
     }
     
@@ -2801,7 +2801,7 @@
         justify-content: center;
         align-items: center;
         border: 2px solid #dd1440;
-        background:url('/icon/Background5.png');
+        background:linear-gradient(90deg, rgb(90, 80, 37),rgb(194, 162, 56), rgb(228, 193, 79));
         background-position: center;
         background-repeat: no-repeat;
         background-size: cover;
@@ -2903,7 +2903,7 @@
         justify-content: center;
         align-items: center;
         border: 2px solid #dd1440;
-        background:url('/icon/Background4.png');
+        background:linear-gradient(90deg, rgb(66, 35, 83),rgb(135, 98, 165), rgb(162, 134, 228));
         background-position: center;
         background-repeat: no-repeat;
         background-size: cover;
@@ -2919,7 +2919,7 @@
         justify-content: center;
         align-items: center;
         border: 2px solid #dd1440;
-        background:linear-gradient(45deg, #8b0824, #d60d38, #ff0037);
+        background:linear-gradient(90deg, #8a1830, #da153f, #e7234d);
         background-position: center;
         background-repeat: no-repeat;
         background-size: cover;
