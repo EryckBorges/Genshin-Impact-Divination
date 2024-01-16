@@ -46,6 +46,7 @@ export const btnBonusCompra = () => {
     const dica = document.querySelector('#dica');
     const arrayPersons = JSON.parse(localStorage.getItem('persons'));
     const perEscolhido = localStorage.getItem('Personagem')
+    const btn = document.querySelector('#btn');
 
     if(localStorage.getItem('persons')) {
         dica.innerHTML = arrayPersons[perEscolhido].bonus;
@@ -53,8 +54,10 @@ export const btnBonusCompra = () => {
         dicaBonus.innerHTML = "Comprar";
         dicaBonus.style.background = "black";
         dicaBonus.style.transition = "0.4s linear";
+        btn.setAttribute('disabled', '');
         setTimeout(() => {
             dica.innerHTML = arrayPersons[perEscolhido].dica;
+            btn.removeAttribute('disabled');
         }, 15000);
     }else {
         dica.innerHTML = localStorage.getItem('Bonus');
@@ -62,8 +65,10 @@ export const btnBonusCompra = () => {
         dicaBonus.innerHTML = "Comprar";
         dicaBonus.style.background = "black";
         dicaBonus.style.transition = "0.4s linear";
+        btn.setAttribute('disabled', '');
         setTimeout(() => {
             dica.innerHTML = personagens[`${localStorage.getItem('Personagem')}`].dica;
+            btn.removeAttribute('disabled');
         }, 15000);
     }
 };
