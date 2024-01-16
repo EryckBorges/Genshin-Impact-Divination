@@ -2748,9 +2748,6 @@ btn.addEventListener('click', () => {
     const personagemDig = persDigitado.toLowerCase();
     const person = localStorage.getItem('Nome');
     const perEscolhido = localStorage.getItem('Personagem');
-    const data = new Date();
-    const hora = data.getHours();
-    const moraDiv = document.querySelector('#moraDiv')
 
     if (personagemDig.trim() === person) {
         if (localStorage.getItem('persons')) {
@@ -2904,7 +2901,7 @@ document.addEventListener('keydown', (event) => {
                 const efeito = "./music/moedas.mp3";
                 audio.src = efeito;
                 audio.play();
-                dica.innerHTML = `Mandou ver! Você Acertou em cheio o personagem que estava na mente de Paimon, E o escolhido foi ${arrayPersons[perEscolhido].nome}`;
+                dica.innerHTML = `Mandou ver! Você Acertou em cheio o personagem que estava na mente de Paimon, E o escolhido foi ${arrayPersons[perEscolhido].nomeCaracter}`;
                 input.style.display = "none";
                 btn.style.display = "none";
                 btnBonus.style.display = "none";
@@ -3221,7 +3218,7 @@ compras.addEventListener('click', () => {
 
 fechar.addEventListener('click', () => {
     comprar.style.display = "none";
-    document.querySelector('#input-pont').style.background = localStorage.getItem('Money');
+    pont.placeholder = `R$ ${localStorage.getItem('Money')},00`;
 });
 
 const btnrest = document.querySelector('#btnrest');
