@@ -1,4 +1,4 @@
-//Mondsthad
+//Mondstadt
 
 export const dilucAvatarCompra = () => {
 
@@ -3522,7 +3522,7 @@ export const keqingSkinAvatarCompra = () => {
     } else if(localStorage.getItem('keqingSkinAvatar') !== 'comprado' && localStorage.getItem('Money') < 1000) {
         keqingAvatarSkin.innerHTML = "Indisponivel";
         keqingAvatarSkin.style.background = "#dd1440";
-        keqingSkinAvatar.style.transition = "0.4s linear";
+        keqingAvatarSkin.style.transition = "0.4s linear";
         setTimeout(() => {
             keqingAvatarSkin.innerHTML = "Comprar";
             keqingAvatarSkin.style.background = "black";
