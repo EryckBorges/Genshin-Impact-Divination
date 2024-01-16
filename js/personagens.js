@@ -109,7 +109,7 @@ const personagens = [
 //Amber 8
 {
     nome: "amber",
-    imagem: "https://images6.alphacoders.com/128/1283847.jpg",
+    imagem: "./image/amberBack.mp4",
     dica: "Esta intrépida arqueira é a defensora de Mondstadt, conhecida por sua habilidade com arco e flecha. Ela tem um espírito livre, sempre pronta para ajudar em qualquer situação. Seu nome começa com a letra 'A'. Quem é essa atiradora destemida?",
     desc: "",
     bonus: "Esta arqueira de Outrora-Knights em Mondstadt é conhecida por sua atitude otimista, habilidades pirotécnicas e paixão por aventuras.",
@@ -149,7 +149,7 @@ const personagens = [
 {
     nome: "kaeya",
     imagem: "./image/kaeyaBack.mp4",
-    dica: 'Nos Cavaleiros de Favonius, ele é o assessor de maior confiança do Grão-Mestre Interino Jean. Você sempre pode contar com ele para resolver quaisquer problemas intratáveis. Todos em Mondstadt o amam, mas ninguém sabe quais segredos esse cavaleiro espirituoso e charmoso tem...',
+    dica: 'Nos Cavaleiros de Favonius, ele é o assessor de maior confiança da Grã-Mestre Interina Jean. Você sempre pode contar com ele para resolver quaisquer problemas intratáveis. Todos em Mondstadt o amam, mas ninguém sabe quais segredos esse cavaleiro espirituoso e charmoso tem...',
     desc: "",
     bonus: 'Ele tem pele bronzeada e cabelo azul marinho com mechas de um azul mais claro, acompanhado por uma mecha de cabelo na altura da cintura que começa na base do couro cabeludo, na parte de trás da cabeça, à esquerda.',
     icon: './icon/Element_Cryo.png',
@@ -621,7 +621,7 @@ const personagens = [
 {
     nome: "sayu",
     imagem: "./image/sayuBack.mp4",
-    dica: 'Uma pequeno ninja ligado ao Shuumatsuban, que sempre parece privada de sono.',
+    dica: 'Uma pequena ninja ligada ao Shuumatsuban, que sempre parece privada de sono.',
     desc: "",
     bonus: 'Ela tem cabelo bege curto e olhos avermelhados.',
     icon: './icon/Element_Anemo.png',
